@@ -1,3 +1,5 @@
+ResearchKey | MODID | Research
+====================================================
 WARP | thaumcraft | Искажение, Порча и всё остальное
 RESEARCH | thaumcraft | Исследования
 ENCHANT | thaumcraft | Зачарования
