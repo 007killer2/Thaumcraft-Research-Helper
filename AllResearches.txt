@@ -1,665 +1,665 @@
-WARP | thaumcraft | Искажение, Порча и всё остальное
-RESEARCH | thaumcraft | Исследования
-ENCHANT | thaumcraft | Зачарования
-NODES | thaumcraft | Аура и её узлы
-RESEARCHDUPE | thaumcraft | Копирование исследований
-ORE | thaumcraft | Руды
-ASPECTS | thaumcraft | Магические аспекты
-KNOWFRAG | thaumcraft | Фрагменты знаний
-RESEARCHER2 | thaumcraft | Мастерство
-CRIMSON | thaumcraft | Багровый культ
-NODEJAR | thaumcraft | Узел ауры в банке
-RESEARCHER1 | thaumcraft | Экспертиза
-NODETAPPER2 | thaumcraft | Мастерское обращение с узлом ауры
-DECONSTRUCTOR | thaumcraft | Стол расщепления
-NODETAPPER1 | thaumcraft | Улучшенное обращение с узлом ауры
-THAUMONOMICON | thaumcraft | Таумономикон
-PLANTS | thaumcraft | Растения и деревья
-NODEPRESERVE | thaumcraft | Бережливый маг
-PECH | thaumcraft | Гномы
-NODESTABILIZER | thaumcraft | Узел-стабилизаторы
-WANDPEDFOC | thaumcraft | Расщепитель аспектов
-VAMPBAT | thaumcraft | Улучшение 5 уровня: Мыши-вампиры 
-ROD_bone | thaumcraft | Костяной стержень
-BASICTHAUMATURGY | thaumcraft | Основы создания жезлов
-FOCUSEXCAVATION | thaumcraft | Набалдашник: Копание
-SCEPTRE | thaumcraft | Скипетры
-ROD_quartz_staff | thaumcraft | Кварцевое ядро посоха
-FOCUSHELLBAT | thaumcraft | Набалдашник: 9 кругов ада
-VISCHARGERELAY | thaumcraft | Вис-заряжатель
-ROD_ice | thaumcraft | Ледяной стержень
-NODESTABILIZERADV | thaumcraft | Улучшенные узел-стабилизаторы
-ROD_reed | thaumcraft | Тростниковый стержень
-ROD_greatwood_staff | thaumcraft | Магические посохи
-ROD_silverwood_staff | thaumcraft | Серебрянодревесное ядро посоха
-FOCUSFROST | thaumcraft | Набалдашник: Заморозка
-VISAMULET | thaumcraft | Хранилище Вис
-FOCALMANIPULATION | thaumcraft | Улучшение набалдашников
-FOCUSFIRE | thaumcraft | Набалдашники
-CAP_gold | thaumcraft | Золотые наконечники
-ROD_silverwood | thaumcraft | Стержень из серебряного дерева
-VISPOWER | thaumcraft | Приручение Вис
-FOCUSPOUCH | thaumcraft | Сумка для набалдашников
-CAP_copper | thaumcraft | Медные наконечники
-ROD_reed_staff | thaumcraft | Тростниковое ядро посоха
-FOCUSSHOCK | thaumcraft | Набалдашник: Шок
-CAP_silver | thaumcraft | Серебряные наконечники
-ROD_quartz | thaumcraft | Кварцевый стержень
+WARP | thaumcraft | РСЃРєР°Р¶РµРЅРёРµ, РџРѕСЂС‡Р° Рё РІСЃС‘ РѕСЃС‚Р°Р»СЊРЅРѕРµ
+RESEARCH | thaumcraft | РСЃСЃР»РµРґРѕРІР°РЅРёСЏ
+ENCHANT | thaumcraft | Р—Р°С‡Р°СЂРѕРІР°РЅРёСЏ
+NODES | thaumcraft | РђСѓСЂР° Рё РµС‘ СѓР·Р»С‹
+RESEARCHDUPE | thaumcraft | РљРѕРїРёСЂРѕРІР°РЅРёРµ РёСЃСЃР»РµРґРѕРІР°РЅРёР№
+ORE | thaumcraft | Р СѓРґС‹
+ASPECTS | thaumcraft | РњР°РіРёС‡РµСЃРєРёРµ Р°СЃРїРµРєС‚С‹
+KNOWFRAG | thaumcraft | Р¤СЂР°РіРјРµРЅС‚С‹ Р·РЅР°РЅРёР№
+RESEARCHER2 | thaumcraft | РњР°СЃС‚РµСЂСЃС‚РІРѕ
+CRIMSON | thaumcraft | Р‘Р°РіСЂРѕРІС‹Р№ РєСѓР»СЊС‚
+NODEJAR | thaumcraft | РЈР·РµР» Р°СѓСЂС‹ РІ Р±Р°РЅРєРµ
+RESEARCHER1 | thaumcraft | Р­РєСЃРїРµСЂС‚РёР·Р°
+NODETAPPER2 | thaumcraft | РњР°СЃС‚РµСЂСЃРєРѕРµ РѕР±СЂР°С‰РµРЅРёРµ СЃ СѓР·Р»РѕРј Р°СѓСЂС‹
+DECONSTRUCTOR | thaumcraft | РЎС‚РѕР» СЂР°СЃС‰РµРїР»РµРЅРёСЏ
+NODETAPPER1 | thaumcraft | РЈР»СѓС‡С€РµРЅРЅРѕРµ РѕР±СЂР°С‰РµРЅРёРµ СЃ СѓР·Р»РѕРј Р°СѓСЂС‹
+THAUMONOMICON | thaumcraft | РўР°СѓРјРѕРЅРѕРјРёРєРѕРЅ
+PLANTS | thaumcraft | Р Р°СЃС‚РµРЅРёСЏ Рё РґРµСЂРµРІСЊСЏ
+NODEPRESERVE | thaumcraft | Р‘РµСЂРµР¶Р»РёРІС‹Р№ РјР°Рі
+PECH | thaumcraft | Р“РЅРѕРјС‹
+NODESTABILIZER | thaumcraft | РЈР·РµР»-СЃС‚Р°Р±РёР»РёР·Р°С‚РѕСЂС‹
+WANDPEDFOC | thaumcraft | Р Р°СЃС‰РµРїРёС‚РµР»СЊ Р°СЃРїРµРєС‚РѕРІ
+VAMPBAT | thaumcraft | РЈР»СѓС‡С€РµРЅРёРµ 5 СѓСЂРѕРІРЅСЏ: РњС‹С€Рё-РІР°РјРїРёСЂС‹ 
+ROD_bone | thaumcraft | РљРѕСЃС‚СЏРЅРѕР№ СЃС‚РµСЂР¶РµРЅСЊ
+BASICTHAUMATURGY | thaumcraft | РћСЃРЅРѕРІС‹ СЃРѕР·РґР°РЅРёСЏ Р¶РµР·Р»РѕРІ
+FOCUSEXCAVATION | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРє: РљРѕРїР°РЅРёРµ
+SCEPTRE | thaumcraft | РЎРєРёРїРµС‚СЂС‹
+ROD_quartz_staff | thaumcraft | РљРІР°СЂС†РµРІРѕРµ СЏРґСЂРѕ РїРѕСЃРѕС…Р°
+FOCUSHELLBAT | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРє: 9 РєСЂСѓРіРѕРІ Р°РґР°
+VISCHARGERELAY | thaumcraft | Р’РёСЃ-Р·Р°СЂСЏР¶Р°С‚РµР»СЊ
+ROD_ice | thaumcraft | Р›РµРґСЏРЅРѕР№ СЃС‚РµСЂР¶РµРЅСЊ
+NODESTABILIZERADV | thaumcraft | РЈР»СѓС‡С€РµРЅРЅС‹Рµ СѓР·РµР»-СЃС‚Р°Р±РёР»РёР·Р°С‚РѕСЂС‹
+ROD_reed | thaumcraft | РўСЂРѕСЃС‚РЅРёРєРѕРІС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+ROD_greatwood_staff | thaumcraft | РњР°РіРёС‡РµСЃРєРёРµ РїРѕСЃРѕС…Рё
+ROD_silverwood_staff | thaumcraft | РЎРµСЂРµР±СЂСЏРЅРѕРґСЂРµРІРµСЃРЅРѕРµ СЏРґСЂРѕ РїРѕСЃРѕС…Р°
+FOCUSFROST | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р—Р°РјРѕСЂРѕР·РєР°
+VISAMULET | thaumcraft | РҐСЂР°РЅРёР»РёС‰Рµ Р’РёСЃ
+FOCALMANIPULATION | thaumcraft | РЈР»СѓС‡С€РµРЅРёРµ РЅР°Р±Р°Р»РґР°С€РЅРёРєРѕРІ
+FOCUSFIRE | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРєРё
+CAP_gold | thaumcraft | Р—РѕР»РѕС‚С‹Рµ РЅР°РєРѕРЅРµС‡РЅРёРєРё
+ROD_silverwood | thaumcraft | РЎС‚РµСЂР¶РµРЅСЊ РёР· СЃРµСЂРµР±СЂСЏРЅРѕРіРѕ РґРµСЂРµРІР°
+VISPOWER | thaumcraft | РџСЂРёСЂСѓС‡РµРЅРёРµ Р’РёСЃ
+FOCUSPOUCH | thaumcraft | РЎСѓРјРєР° РґР»СЏ РЅР°Р±Р°Р»РґР°С€РЅРёРєРѕРІ
+CAP_copper | thaumcraft | РњРµРґРЅС‹Рµ РЅР°РєРѕРЅРµС‡РЅРёРєРё
+ROD_reed_staff | thaumcraft | РўСЂРѕСЃС‚РЅРёРєРѕРІРѕРµ СЏРґСЂРѕ РїРѕСЃРѕС…Р°
+FOCUSSHOCK | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРє: РЁРѕРє
+CAP_silver | thaumcraft | РЎРµСЂРµР±СЂСЏРЅС‹Рµ РЅР°РєРѕРЅРµС‡РЅРёРєРё
+ROD_quartz | thaumcraft | РљРІР°СЂС†РµРІС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
 CAP_iron | thaumcraft | tc.research_name.CAP_iron
-FOCUSWARDING | thaumcraft | Набалдашник: Укрепление
-ROD_obsidian | thaumcraft | Обсидиановый стержень
-FOCUSPORTABLEHOLE | thaumcraft | Набалдашник: Червоточина
-CAP_thaumium | thaumcraft | Таум-наконечники
+FOCUSWARDING | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРє: РЈРєСЂРµРїР»РµРЅРёРµ
+ROD_obsidian | thaumcraft | РћР±СЃРёРґРёР°РЅРѕРІС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+FOCUSPORTABLEHOLE | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р§РµСЂРІРѕС‚РѕС‡РёРЅР°
+CAP_thaumium | thaumcraft | РўР°СѓРј-РЅР°РєРѕРЅРµС‡РЅРёРєРё
 ROD_wood | thaumcraft | tc.research_name.ROD_wood
-ROD_greatwood | thaumcraft | Стержень из великого дерева
-ROD_blaze | thaumcraft | Огненный стержень
-ROD_bone_staff | thaumcraft | Костяное ядро посоха
-ROD_obsidian_staff | thaumcraft | Обсидиановое ядро посоха
-FOCUSTRADE | thaumcraft | Набалдашник: Равноценный обмен
-ROD_ice_staff | thaumcraft | Ледяное ядро посоха
-WANDPED | thaumcraft | Перезарядочный пьедестал
-ROD_blaze_staff | thaumcraft | Огненное ядро посоха
-ALUMENTUM | thaumcraft | Алюментум
-BATHSALTS | thaumcraft | Очищающая соль
-CRUCIBLE | thaumcraft | Начала алхимии
-ENTROPICPROCESSING | thaumcraft | Энтропия
-TRANSIRON | thaumcraft | Трансмутация металла
-THAUMATORIUM | thaumcraft | Автоалхимия
-ALCHEMICALMANUFACTURE | thaumcraft | Алхимическое производство
-LIQUIDDEATH | thaumcraft | Жидкая смерть
-TUBES | thaumcraft | Трубы для эссенций
-TRANSTIN | thaumcraft | Трансмутация олова
-SANESOAP | thaumcraft | Лечащее мыло
-ETHEREALBLOOM | thaumcraft | Эфирный цветок
-TALLOW | thaumcraft | Магический жир
-PURESILVER | thaumcraft | Очистка серебра
-PURETIN | thaumcraft | Очистка олова
-TRANSCOPPER | thaumcraft | Трансмутация меди
-ESSENTIACRYSTAL | thaumcraft | Кристаллизация эссенции 
-ARCANESPA | thaumcraft | Магическая ванна
-CENTRIFUGE | thaumcraft | Алхимическая центрифуга
-TRANSSILVER | thaumcraft | Трансмутация серебра
-PUREIRON | thaumcraft | Очистка металла
-ALCHEMICALDUPLICATION | thaumcraft | Алхимия удвоения
-JARVOID | thaumcraft | Пустотная банка
-NITOR | thaumcraft | Нитор
-BOTTLETAINT | thaumcraft | Порча в бутылке 
-PUREGOLD | thaumcraft | Очистка золота
-DISTILESSENTIA | thaumcraft | Очистка эссенции
-PHIAL | thaumcraft | Стеклянные пузырьки
-TUBEFILTER | thaumcraft | Улучшенные трубы
-PURELEAD | thaumcraft | Очистка свинца
-THAUMIUM | thaumcraft | Магическая металлургия
-TRANSLEAD | thaumcraft | Трансмутация свинца
-TRANSGOLD | thaumcraft | Трансмутация золота
-PURECOPPER | thaumcraft | Очистка меди
-JARLABEL | thaumcraft | Банки и бирки
-RUNICEMERGENCY | thaumcraft | Амулет экстренного рунного щита
-GOGGLES | thaumcraft | Очки откровения
-ENCHFABRIC | thaumcraft | Зачарованная ткань
-ELEMENTALPICK | thaumcraft | Кирка Огня
-ELEMENTALAXE | thaumcraft | Топор Потока
-TABLE | thaumcraft | Стол
-INFERNALFURNACE | thaumcraft | Адская печь
-BANNERS | thaumcraft | Вымпелы
-ELEMENTALSHOVEL | thaumcraft | Лопата Землероя
-LEVITATOR | thaumcraft | Магический подъёмник
-HOVERGIRDLE | thaumcraft | Таумостатический пояс
-WARDEDARCANA | thaumcraft | Магия защиты
-BASICARTIFACE | thaumcraft | Первичное чудотворство
-FLUXSCRUB | thaumcraft | Полотёр порчи
-THAUMOMETER | thaumcraft | Таумометр
-BOOTSTRAVELLER | thaumcraft | Сапоги путешественника
-RESTABLE | thaumcraft | Стол исследований
-MIRRORESSENTIA | thaumcraft | Зеркала для эссенции
-PRIMALARROW | thaumcraft | Энергострелы
-ARCANEEAR | thaumcraft | Магическоеое ухо
-GRATE | thaumcraft | Железная решетка
-RUNICCHARGED | thaumcraft | Энергизированное кольцо рунного щита
-RUNICHEALING | thaumcraft | Восстанавливающее кольцо рунного щита
-HOVERHARNESS | thaumcraft | Таумостатический ранец
-MIRROR | thaumcraft | Зеркальная магия
-LAMPGROWTH | thaumcraft | Светильник роста
-MASKGRINNINGDEVIL | thaumcraft | Маска смеющегося дьявола
-ELEMENTALHOE | thaumcraft | Мотыга Роста
-MIRRORHAND | thaumcraft | Магическое ручное зеркало
-ARCTABLE | thaumcraft | Магический верстак
-INFUSION | thaumcraft | Наполнение предметов магией
-RUNICKINETIC | thaumcraft | Кинетический пояс рунного щита
-PAVEWARD | thaumcraft | Камень сдерживания
-MASKANGRYGHOST | thaumcraft | Маска злого привидения
-MASKSIPPINGFIEND | thaumcraft | Маска тянущегося демона
-ARCANELAMP | thaumcraft | Магический светильник
-ARMORFORTRESS | thaumcraft | Боевой таум-доспех
-BELLOWS | thaumcraft | Магические меха
-HELMGOGGLES | thaumcraft | Шлем провидения
-RUNICARMOR | thaumcraft | Рунный щит
-RUNICAUGMENTATION | thaumcraft | Усиление рунного щита
-LAMPFERTILITY | thaumcraft | Светильник скрещивания
-BONEBOW | thaumcraft | Костяной лук
-ARCANESTONE | thaumcraft | Магический камень
-SINSTONE | thaumcraft | Зловещий камень
-ELEMENTALSWORD | thaumcraft | Меч Бури
-PAVETRAVEL | thaumcraft | Камень путешественника
-JARBRAIN | thaumcraft | Мозг в банке
-ARCANEBORE | thaumcraft | Магический бур
-INFUSIONENCHANTMENT | thaumcraft | Зачаровывание наполнением
-GOLEMCLAY | thaumcraft | Кирпичные големы
-UPGRADEWATER | thaumcraft | Улучшение голема: Вода
-HUNGRYCHEST | thaumcraft | Голодный сундук
-GOLEMTALLOW | thaumcraft | Сальные големы
-GOLEMWOOD | thaumcraft | Деревянные големы
-GOLEMFLESH | thaumcraft | Големы из плоти
-UPGRADEEARTH | thaumcraft | Улучшение голема: Земля
-TINYDART | thaumcraft | Арбалет голема
-UPGRADEFIRE | thaumcraft | Улучшение голема: Огонь
-UPGRADEENTROPY | thaumcraft | Улучшение голема: Хаос
-COREUSE | thaumcraft | Сердце голема: Использование
-TINYHAMMER | thaumcraft | Кувалда голема
-TRAVELTRUNK | thaumcraft | Ходячий сундук
-TINYBOWTIE | thaumcraft | Маленькие бабочки
-GOLEMBELL | thaumcraft | Хрустальный колокольчик
-CORESORTING | thaumcraft | Сердце голема: Сортировка
-GOLEMTHAUMIUM | thaumcraft | Таум-големы
-TINYHAT | thaumcraft | Маленькие цилиндры
-TINYFEZ | thaumcraft | Маленькие фески
-CORELUMBER | thaumcraft | Сердце голема: Срубка
-TINYGLASSES | thaumcraft | Маленькие очки
-TINYVISOR | thaumcraft | Забрало голема
-UPGRADEAIR | thaumcraft | Улучшение голема: Воздух
-COREFISHING | thaumcraft | Сердце голема: Рыбалка
-COREGATHER | thaumcraft | Сердце голема: Сбор
-COREHARVEST | thaumcraft | Сердце голема: Жатва
-COREBUTCHER | thaumcraft | Сердце голема: Забивание
-COREGUARD | thaumcraft | Сердце голема: Охрана
-ADVANCEDGOLEM | thaumcraft | Улучшенные големы
-TINYARMOR | thaumcraft | Бронепластина голема
-COREFILL | thaumcraft | Сердце голема: Наполнение
-GOLEMFETTER | thaumcraft | Голем-деактиватор
-GOLEMSTRAW | thaumcraft | Соломенные големы
-COREALCHEMY | thaumcraft | Сердце голема: Алхимия
-GOLEMSTONE | thaumcraft | Каменные големы
-GOLEMIRON | thaumcraft | Железные големы
-CORELIQUID | thaumcraft | Сердце голема: Заливка
-COREEMPTY | thaumcraft | Сердце голема: Опустошение
-UPGRADEORDER | thaumcraft | Улучшение голема: Порядок
-ELDRITCHMAJOR | thaumcraft | Откровение древности
-ADVALCHEMYFURNACE | thaumcraft | Улучшенная алхимическая печь
-ARMORVOIDFORTRESS | thaumcraft | Пустотное одеяние
-ELDRITCHMINOR | thaumcraft | Открытие древности
-ENTEROUTER | thaumcraft | Внешние Земли 
-FOCUSPRIMAL | thaumcraft | Набалдашник: Сингулярность
-ESSENTIARESERVOIR | thaumcraft | Улучшенное хранилище эссенции 
-SANITYCHECK | thaumcraft | Психический детектор
-ROD_primal_staff | thaumcraft | Сингулярное ядро посоха
-OCULUS | thaumcraft | Открытие Глаза
-OUTERREV | thaumcraft | Открытие Внешних Земель 
-PRIMALCRUSHER | thaumcraft | Сингулярный крушитель
-PRIMPEARL | thaumcraft | Сингулярная жемчужина 
-PRIMNODE | thaumcraft | Сингулярный узел ауры
-CAP_void | thaumcraft | Пустотные наконечники
-VOIDMETAL | thaumcraft | Пустотный металл
-REDCRYSTAL | automagy | Красный Кристалл
-GOLEMLINKER | automagy | Колокольчик Связывания
-NETHERRUNE_WISP | automagy | Рунный Обсидиан: Висп
-MOBLURE | automagy | Соблазн Сирены
-DIMENSIONLURE | automagy | Соблазн Преисподней
-ADVNODEJAR | automagy | Укрепленные Банки
-TALLYBLOCK_LENS | automagy | Линзы для Шкатулок
-NETHERRUNE_GHAST | automagy | Рунный Обсидиан: Гаст
-NETHERRUNE_BAT | automagy | Рунный Обсидиан: Летучая Мышь
-SLIVERS_TRAVEL | automagy | Щепки-Путешественницы
-REMOTECOMPARATOR | automagy | Компаратор Удаленного Действия
-ESSENTIALOCUSAGGREGATOR | automagy | Накопитель Эссенции
-MIRRORINPUT | automagy | Зеркало Слияния
-REDCRYSTAL_DIM | automagy | Тусклый Красный Кристалл
-REDCRYSTAL_MIRRORBOUND | automagy | Ртутный  Красный Кристалл
-THIRSTYTANK | automagy | Резервуар Жажды
-EAGERCHEST | automagy | Нетерпеливый Сундук
-THIRSTYTANK_GLYPH_BOVINE | automagy | Бычий Символ
-NETHERRUNE_LIGHT | automagy | Рунный Обсидиан: Свет
-HUNGRYMAW | automagy | Ненасытная Утроба
-ALCHEMYBOILER | automagy | Алхимический Котёл
+ROD_greatwood | thaumcraft | РЎС‚РµСЂР¶РµРЅСЊ РёР· РІРµР»РёРєРѕРіРѕ РґРµСЂРµРІР°
+ROD_blaze | thaumcraft | РћРіРЅРµРЅРЅС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+ROD_bone_staff | thaumcraft | РљРѕСЃС‚СЏРЅРѕРµ СЏРґСЂРѕ РїРѕСЃРѕС…Р°
+ROD_obsidian_staff | thaumcraft | РћР±СЃРёРґРёР°РЅРѕРІРѕРµ СЏРґСЂРѕ РїРѕСЃРѕС…Р°
+FOCUSTRADE | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р Р°РІРЅРѕС†РµРЅРЅС‹Р№ РѕР±РјРµРЅ
+ROD_ice_staff | thaumcraft | Р›РµРґСЏРЅРѕРµ СЏРґСЂРѕ РїРѕСЃРѕС…Р°
+WANDPED | thaumcraft | РџРµСЂРµР·Р°СЂСЏРґРѕС‡РЅС‹Р№ РїСЊРµРґРµСЃС‚Р°Р»
+ROD_blaze_staff | thaumcraft | РћРіРЅРµРЅРЅРѕРµ СЏРґСЂРѕ РїРѕСЃРѕС…Р°
+ALUMENTUM | thaumcraft | РђР»СЋРјРµРЅС‚СѓРј
+BATHSALTS | thaumcraft | РћС‡РёС‰Р°СЋС‰Р°СЏ СЃРѕР»СЊ
+CRUCIBLE | thaumcraft | РќР°С‡Р°Р»Р° Р°Р»С…РёРјРёРё
+ENTROPICPROCESSING | thaumcraft | Р­РЅС‚СЂРѕРїРёСЏ
+TRANSIRON | thaumcraft | РўСЂР°РЅСЃРјСѓС‚Р°С†РёСЏ РјРµС‚Р°Р»Р»Р°
+THAUMATORIUM | thaumcraft | РђРІС‚РѕР°Р»С…РёРјРёСЏ
+ALCHEMICALMANUFACTURE | thaumcraft | РђР»С…РёРјРёС‡РµСЃРєРѕРµ РїСЂРѕРёР·РІРѕРґСЃС‚РІРѕ
+LIQUIDDEATH | thaumcraft | Р–РёРґРєР°СЏ СЃРјРµСЂС‚СЊ
+TUBES | thaumcraft | РўСЂСѓР±С‹ РґР»СЏ СЌСЃСЃРµРЅС†РёР№
+TRANSTIN | thaumcraft | РўСЂР°РЅСЃРјСѓС‚Р°С†РёСЏ РѕР»РѕРІР°
+SANESOAP | thaumcraft | Р›РµС‡Р°С‰РµРµ РјС‹Р»Рѕ
+ETHEREALBLOOM | thaumcraft | Р­С„РёСЂРЅС‹Р№ С†РІРµС‚РѕРє
+TALLOW | thaumcraft | РњР°РіРёС‡РµСЃРєРёР№ Р¶РёСЂ
+PURESILVER | thaumcraft | РћС‡РёСЃС‚РєР° СЃРµСЂРµР±СЂР°
+PURETIN | thaumcraft | РћС‡РёСЃС‚РєР° РѕР»РѕРІР°
+TRANSCOPPER | thaumcraft | РўСЂР°РЅСЃРјСѓС‚Р°С†РёСЏ РјРµРґРё
+ESSENTIACRYSTAL | thaumcraft | РљСЂРёСЃС‚Р°Р»Р»РёР·Р°С†РёСЏ СЌСЃСЃРµРЅС†РёРё 
+ARCANESPA | thaumcraft | РњР°РіРёС‡РµСЃРєР°СЏ РІР°РЅРЅР°
+CENTRIFUGE | thaumcraft | РђР»С…РёРјРёС‡РµСЃРєР°СЏ С†РµРЅС‚СЂРёС„СѓРіР°
+TRANSSILVER | thaumcraft | РўСЂР°РЅСЃРјСѓС‚Р°С†РёСЏ СЃРµСЂРµР±СЂР°
+PUREIRON | thaumcraft | РћС‡РёСЃС‚РєР° РјРµС‚Р°Р»Р»Р°
+ALCHEMICALDUPLICATION | thaumcraft | РђР»С…РёРјРёСЏ СѓРґРІРѕРµРЅРёСЏ
+JARVOID | thaumcraft | РџСѓСЃС‚РѕС‚РЅР°СЏ Р±Р°РЅРєР°
+NITOR | thaumcraft | РќРёС‚РѕСЂ
+BOTTLETAINT | thaumcraft | РџРѕСЂС‡Р° РІ Р±СѓС‚С‹Р»РєРµ 
+PUREGOLD | thaumcraft | РћС‡РёСЃС‚РєР° Р·РѕР»РѕС‚Р°
+DISTILESSENTIA | thaumcraft | РћС‡РёСЃС‚РєР° СЌСЃСЃРµРЅС†РёРё
+PHIAL | thaumcraft | РЎС‚РµРєР»СЏРЅРЅС‹Рµ РїСѓР·С‹СЂСЊРєРё
+TUBEFILTER | thaumcraft | РЈР»СѓС‡С€РµРЅРЅС‹Рµ С‚СЂСѓР±С‹
+PURELEAD | thaumcraft | РћС‡РёСЃС‚РєР° СЃРІРёРЅС†Р°
+THAUMIUM | thaumcraft | РњР°РіРёС‡РµСЃРєР°СЏ РјРµС‚Р°Р»Р»СѓСЂРіРёСЏ
+TRANSLEAD | thaumcraft | РўСЂР°РЅСЃРјСѓС‚Р°С†РёСЏ СЃРІРёРЅС†Р°
+TRANSGOLD | thaumcraft | РўСЂР°РЅСЃРјСѓС‚Р°С†РёСЏ Р·РѕР»РѕС‚Р°
+PURECOPPER | thaumcraft | РћС‡РёСЃС‚РєР° РјРµРґРё
+JARLABEL | thaumcraft | Р‘Р°РЅРєРё Рё Р±РёСЂРєРё
+RUNICEMERGENCY | thaumcraft | РђРјСѓР»РµС‚ СЌРєСЃС‚СЂРµРЅРЅРѕРіРѕ СЂСѓРЅРЅРѕРіРѕ С‰РёС‚Р°
+GOGGLES | thaumcraft | РћС‡РєРё РѕС‚РєСЂРѕРІРµРЅРёСЏ
+ENCHFABRIC | thaumcraft | Р—Р°С‡Р°СЂРѕРІР°РЅРЅР°СЏ С‚РєР°РЅСЊ
+ELEMENTALPICK | thaumcraft | РљРёСЂРєР° РћРіРЅСЏ
+ELEMENTALAXE | thaumcraft | РўРѕРїРѕСЂ РџРѕС‚РѕРєР°
+TABLE | thaumcraft | РЎС‚РѕР»
+INFERNALFURNACE | thaumcraft | РђРґСЃРєР°СЏ РїРµС‡СЊ
+BANNERS | thaumcraft | Р’С‹РјРїРµР»С‹
+ELEMENTALSHOVEL | thaumcraft | Р›РѕРїР°С‚Р° Р—РµРјР»РµСЂРѕСЏ
+LEVITATOR | thaumcraft | РњР°РіРёС‡РµСЃРєРёР№ РїРѕРґСЉС‘РјРЅРёРє
+HOVERGIRDLE | thaumcraft | РўР°СѓРјРѕСЃС‚Р°С‚РёС‡РµСЃРєРёР№ РїРѕСЏСЃ
+WARDEDARCANA | thaumcraft | РњР°РіРёСЏ Р·Р°С‰РёС‚С‹
+BASICARTIFACE | thaumcraft | РџРµСЂРІРёС‡РЅРѕРµ С‡СѓРґРѕС‚РІРѕСЂСЃС‚РІРѕ
+FLUXSCRUB | thaumcraft | РџРѕР»РѕС‚С‘СЂ РїРѕСЂС‡Рё
+THAUMOMETER | thaumcraft | РўР°СѓРјРѕРјРµС‚СЂ
+BOOTSTRAVELLER | thaumcraft | РЎР°РїРѕРіРё РїСѓС‚РµС€РµСЃС‚РІРµРЅРЅРёРєР°
+RESTABLE | thaumcraft | РЎС‚РѕР» РёСЃСЃР»РµРґРѕРІР°РЅРёР№
+MIRRORESSENTIA | thaumcraft | Р—РµСЂРєР°Р»Р° РґР»СЏ СЌСЃСЃРµРЅС†РёРё
+PRIMALARROW | thaumcraft | Р­РЅРµСЂРіРѕСЃС‚СЂРµР»С‹
+ARCANEEAR | thaumcraft | РњР°РіРёС‡РµСЃРєРѕРµРѕРµ СѓС…Рѕ
+GRATE | thaumcraft | Р–РµР»РµР·РЅР°СЏ СЂРµС€РµС‚РєР°
+RUNICCHARGED | thaumcraft | Р­РЅРµСЂРіРёР·РёСЂРѕРІР°РЅРЅРѕРµ РєРѕР»СЊС†Рѕ СЂСѓРЅРЅРѕРіРѕ С‰РёС‚Р°
+RUNICHEALING | thaumcraft | Р’РѕСЃСЃС‚Р°РЅР°РІР»РёРІР°СЋС‰РµРµ РєРѕР»СЊС†Рѕ СЂСѓРЅРЅРѕРіРѕ С‰РёС‚Р°
+HOVERHARNESS | thaumcraft | РўР°СѓРјРѕСЃС‚Р°С‚РёС‡РµСЃРєРёР№ СЂР°РЅРµС†
+MIRROR | thaumcraft | Р—РµСЂРєР°Р»СЊРЅР°СЏ РјР°РіРёСЏ
+LAMPGROWTH | thaumcraft | РЎРІРµС‚РёР»СЊРЅРёРє СЂРѕСЃС‚Р°
+MASKGRINNINGDEVIL | thaumcraft | РњР°СЃРєР° СЃРјРµСЋС‰РµРіРѕСЃСЏ РґСЊСЏРІРѕР»Р°
+ELEMENTALHOE | thaumcraft | РњРѕС‚С‹РіР° Р РѕСЃС‚Р°
+MIRRORHAND | thaumcraft | РњР°РіРёС‡РµСЃРєРѕРµ СЂСѓС‡РЅРѕРµ Р·РµСЂРєР°Р»Рѕ
+ARCTABLE | thaumcraft | РњР°РіРёС‡РµСЃРєРёР№ РІРµСЂСЃС‚Р°Рє
+INFUSION | thaumcraft | РќР°РїРѕР»РЅРµРЅРёРµ РїСЂРµРґРјРµС‚РѕРІ РјР°РіРёРµР№
+RUNICKINETIC | thaumcraft | РљРёРЅРµС‚РёС‡РµСЃРєРёР№ РїРѕСЏСЃ СЂСѓРЅРЅРѕРіРѕ С‰РёС‚Р°
+PAVEWARD | thaumcraft | РљР°РјРµРЅСЊ СЃРґРµСЂР¶РёРІР°РЅРёСЏ
+MASKANGRYGHOST | thaumcraft | РњР°СЃРєР° Р·Р»РѕРіРѕ РїСЂРёРІРёРґРµРЅРёСЏ
+MASKSIPPINGFIEND | thaumcraft | РњР°СЃРєР° С‚СЏРЅСѓС‰РµРіРѕСЃСЏ РґРµРјРѕРЅР°
+ARCANELAMP | thaumcraft | РњР°РіРёС‡РµСЃРєРёР№ СЃРІРµС‚РёР»СЊРЅРёРє
+ARMORFORTRESS | thaumcraft | Р‘РѕРµРІРѕР№ С‚Р°СѓРј-РґРѕСЃРїРµС…
+BELLOWS | thaumcraft | РњР°РіРёС‡РµСЃРєРёРµ РјРµС…Р°
+HELMGOGGLES | thaumcraft | РЁР»РµРј РїСЂРѕРІРёРґРµРЅРёСЏ
+RUNICARMOR | thaumcraft | Р СѓРЅРЅС‹Р№ С‰РёС‚
+RUNICAUGMENTATION | thaumcraft | РЈСЃРёР»РµРЅРёРµ СЂСѓРЅРЅРѕРіРѕ С‰РёС‚Р°
+LAMPFERTILITY | thaumcraft | РЎРІРµС‚РёР»СЊРЅРёРє СЃРєСЂРµС‰РёРІР°РЅРёСЏ
+BONEBOW | thaumcraft | РљРѕСЃС‚СЏРЅРѕР№ Р»СѓРє
+ARCANESTONE | thaumcraft | РњР°РіРёС‡РµСЃРєРёР№ РєР°РјРµРЅСЊ
+SINSTONE | thaumcraft | Р—Р»РѕРІРµС‰РёР№ РєР°РјРµРЅСЊ
+ELEMENTALSWORD | thaumcraft | РњРµС‡ Р‘СѓСЂРё
+PAVETRAVEL | thaumcraft | РљР°РјРµРЅСЊ РїСѓС‚РµС€РµСЃС‚РІРµРЅРЅРёРєР°
+JARBRAIN | thaumcraft | РњРѕР·Рі РІ Р±Р°РЅРєРµ
+ARCANEBORE | thaumcraft | РњР°РіРёС‡РµСЃРєРёР№ Р±СѓСЂ
+INFUSIONENCHANTMENT | thaumcraft | Р—Р°С‡Р°СЂРѕРІС‹РІР°РЅРёРµ РЅР°РїРѕР»РЅРµРЅРёРµРј
+GOLEMCLAY | thaumcraft | РљРёСЂРїРёС‡РЅС‹Рµ РіРѕР»РµРјС‹
+UPGRADEWATER | thaumcraft | РЈР»СѓС‡С€РµРЅРёРµ РіРѕР»РµРјР°: Р’РѕРґР°
+HUNGRYCHEST | thaumcraft | Р“РѕР»РѕРґРЅС‹Р№ СЃСѓРЅРґСѓРє
+GOLEMTALLOW | thaumcraft | РЎР°Р»СЊРЅС‹Рµ РіРѕР»РµРјС‹
+GOLEMWOOD | thaumcraft | Р”РµСЂРµРІСЏРЅРЅС‹Рµ РіРѕР»РµРјС‹
+GOLEMFLESH | thaumcraft | Р“РѕР»РµРјС‹ РёР· РїР»РѕС‚Рё
+UPGRADEEARTH | thaumcraft | РЈР»СѓС‡С€РµРЅРёРµ РіРѕР»РµРјР°: Р—РµРјР»СЏ
+TINYDART | thaumcraft | РђСЂР±Р°Р»РµС‚ РіРѕР»РµРјР°
+UPGRADEFIRE | thaumcraft | РЈР»СѓС‡С€РµРЅРёРµ РіРѕР»РµРјР°: РћРіРѕРЅСЊ
+UPGRADEENTROPY | thaumcraft | РЈР»СѓС‡С€РµРЅРёРµ РіРѕР»РµРјР°: РҐР°РѕСЃ
+COREUSE | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ
+TINYHAMMER | thaumcraft | РљСѓРІР°Р»РґР° РіРѕР»РµРјР°
+TRAVELTRUNK | thaumcraft | РҐРѕРґСЏС‡РёР№ СЃСѓРЅРґСѓРє
+TINYBOWTIE | thaumcraft | РњР°Р»РµРЅСЊРєРёРµ Р±Р°Р±РѕС‡РєРё
+GOLEMBELL | thaumcraft | РҐСЂСѓСЃС‚Р°Р»СЊРЅС‹Р№ РєРѕР»РѕРєРѕР»СЊС‡РёРє
+CORESORTING | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РЎРѕСЂС‚РёСЂРѕРІРєР°
+GOLEMTHAUMIUM | thaumcraft | РўР°СѓРј-РіРѕР»РµРјС‹
+TINYHAT | thaumcraft | РњР°Р»РµРЅСЊРєРёРµ С†РёР»РёРЅРґСЂС‹
+TINYFEZ | thaumcraft | РњР°Р»РµРЅСЊРєРёРµ С„РµСЃРєРё
+CORELUMBER | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РЎСЂСѓР±РєР°
+TINYGLASSES | thaumcraft | РњР°Р»РµРЅСЊРєРёРµ РѕС‡РєРё
+TINYVISOR | thaumcraft | Р—Р°Р±СЂР°Р»Рѕ РіРѕР»РµРјР°
+UPGRADEAIR | thaumcraft | РЈР»СѓС‡С€РµРЅРёРµ РіРѕР»РµРјР°: Р’РѕР·РґСѓС…
+COREFISHING | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: Р С‹Р±Р°Р»РєР°
+COREGATHER | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РЎР±РѕСЂ
+COREHARVEST | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: Р–Р°С‚РІР°
+COREBUTCHER | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: Р—Р°Р±РёРІР°РЅРёРµ
+COREGUARD | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РћС…СЂР°РЅР°
+ADVANCEDGOLEM | thaumcraft | РЈР»СѓС‡С€РµРЅРЅС‹Рµ РіРѕР»РµРјС‹
+TINYARMOR | thaumcraft | Р‘СЂРѕРЅРµРїР»Р°СЃС‚РёРЅР° РіРѕР»РµРјР°
+COREFILL | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РќР°РїРѕР»РЅРµРЅРёРµ
+GOLEMFETTER | thaumcraft | Р“РѕР»РµРј-РґРµР°РєС‚РёРІР°С‚РѕСЂ
+GOLEMSTRAW | thaumcraft | РЎРѕР»РѕРјРµРЅРЅС‹Рµ РіРѕР»РµРјС‹
+COREALCHEMY | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РђР»С…РёРјРёСЏ
+GOLEMSTONE | thaumcraft | РљР°РјРµРЅРЅС‹Рµ РіРѕР»РµРјС‹
+GOLEMIRON | thaumcraft | Р–РµР»РµР·РЅС‹Рµ РіРѕР»РµРјС‹
+CORELIQUID | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: Р—Р°Р»РёРІРєР°
+COREEMPTY | thaumcraft | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РћРїСѓСЃС‚РѕС€РµРЅРёРµ
+UPGRADEORDER | thaumcraft | РЈР»СѓС‡С€РµРЅРёРµ РіРѕР»РµРјР°: РџРѕСЂСЏРґРѕРє
+ELDRITCHMAJOR | thaumcraft | РћС‚РєСЂРѕРІРµРЅРёРµ РґСЂРµРІРЅРѕСЃС‚Рё
+ADVALCHEMYFURNACE | thaumcraft | РЈР»СѓС‡С€РµРЅРЅР°СЏ Р°Р»С…РёРјРёС‡РµСЃРєР°СЏ РїРµС‡СЊ
+ARMORVOIDFORTRESS | thaumcraft | РџСѓСЃС‚РѕС‚РЅРѕРµ РѕРґРµСЏРЅРёРµ
+ELDRITCHMINOR | thaumcraft | РћС‚РєСЂС‹С‚РёРµ РґСЂРµРІРЅРѕСЃС‚Рё
+ENTEROUTER | thaumcraft | Р’РЅРµС€РЅРёРµ Р—РµРјР»Рё 
+FOCUSPRIMAL | thaumcraft | РќР°Р±Р°Р»РґР°С€РЅРёРє: РЎРёРЅРіСѓР»СЏСЂРЅРѕСЃС‚СЊ
+ESSENTIARESERVOIR | thaumcraft | РЈР»СѓС‡С€РµРЅРЅРѕРµ С…СЂР°РЅРёР»РёС‰Рµ СЌСЃСЃРµРЅС†РёРё 
+SANITYCHECK | thaumcraft | РџСЃРёС…РёС‡РµСЃРєРёР№ РґРµС‚РµРєС‚РѕСЂ
+ROD_primal_staff | thaumcraft | РЎРёРЅРіСѓР»СЏСЂРЅРѕРµ СЏРґСЂРѕ РїРѕСЃРѕС…Р°
+OCULUS | thaumcraft | РћС‚РєСЂС‹С‚РёРµ Р“Р»Р°Р·Р°
+OUTERREV | thaumcraft | РћС‚РєСЂС‹С‚РёРµ Р’РЅРµС€РЅРёС… Р—РµРјРµР»СЊ 
+PRIMALCRUSHER | thaumcraft | РЎРёРЅРіСѓР»СЏСЂРЅС‹Р№ РєСЂСѓС€РёС‚РµР»СЊ
+PRIMPEARL | thaumcraft | РЎРёРЅРіСѓР»СЏСЂРЅР°СЏ Р¶РµРјС‡СѓР¶РёРЅР° 
+PRIMNODE | thaumcraft | РЎРёРЅРіСѓР»СЏСЂРЅС‹Р№ СѓР·РµР» Р°СѓСЂС‹
+CAP_void | thaumcraft | РџСѓСЃС‚РѕС‚РЅС‹Рµ РЅР°РєРѕРЅРµС‡РЅРёРєРё
+VOIDMETAL | thaumcraft | РџСѓСЃС‚РѕС‚РЅС‹Р№ РјРµС‚Р°Р»Р»
+REDCRYSTAL | automagy | РљСЂР°СЃРЅС‹Р№ РљСЂРёСЃС‚Р°Р»Р»
+GOLEMLINKER | automagy | РљРѕР»РѕРєРѕР»СЊС‡РёРє РЎРІСЏР·С‹РІР°РЅРёСЏ
+NETHERRUNE_WISP | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: Р’РёСЃРї
+MOBLURE | automagy | РЎРѕР±Р»Р°Р·РЅ РЎРёСЂРµРЅС‹
+DIMENSIONLURE | automagy | РЎРѕР±Р»Р°Р·РЅ РџСЂРµРёСЃРїРѕРґРЅРµР№
+ADVNODEJAR | automagy | РЈРєСЂРµРїР»РµРЅРЅС‹Рµ Р‘Р°РЅРєРё
+TALLYBLOCK_LENS | automagy | Р›РёРЅР·С‹ РґР»СЏ РЁРєР°С‚СѓР»РѕРє
+NETHERRUNE_GHAST | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: Р“Р°СЃС‚
+NETHERRUNE_BAT | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: Р›РµС‚СѓС‡Р°СЏ РњС‹С€СЊ
+SLIVERS_TRAVEL | automagy | Р©РµРїРєРё-РџСѓС‚РµС€РµСЃС‚РІРµРЅРЅРёС†С‹
+REMOTECOMPARATOR | automagy | РљРѕРјРїР°СЂР°С‚РѕСЂ РЈРґР°Р»РµРЅРЅРѕРіРѕ Р”РµР№СЃС‚РІРёСЏ
+ESSENTIALOCUSAGGREGATOR | automagy | РќР°РєРѕРїРёС‚РµР»СЊ Р­СЃСЃРµРЅС†РёРё
+MIRRORINPUT | automagy | Р—РµСЂРєР°Р»Рѕ РЎР»РёСЏРЅРёСЏ
+REDCRYSTAL_DIM | automagy | РўСѓСЃРєР»С‹Р№ РљСЂР°СЃРЅС‹Р№ РљСЂРёСЃС‚Р°Р»Р»
+REDCRYSTAL_MIRRORBOUND | automagy | Р С‚СѓС‚РЅС‹Р№  РљСЂР°СЃРЅС‹Р№ РљСЂРёСЃС‚Р°Р»Р»
+THIRSTYTANK | automagy | Р РµР·РµСЂРІСѓР°СЂ Р–Р°Р¶РґС‹
+EAGERCHEST | automagy | РќРµС‚РµСЂРїРµР»РёРІС‹Р№ РЎСѓРЅРґСѓРє
+THIRSTYTANK_GLYPH_BOVINE | automagy | Р‘С‹С‡РёР№ РЎРёРјРІРѕР»
+NETHERRUNE_LIGHT | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: РЎРІРµС‚
+HUNGRYMAW | automagy | РќРµРЅР°СЃС‹С‚РЅР°СЏ РЈС‚СЂРѕР±Р°
+ALCHEMYBOILER | automagy | РђР»С…РёРјРёС‡РµСЃРєРёР№ РљРѕС‚С‘Р»
 ENTITYSIGNAL | automagy | Signum Entia
-NETHERRUNE_SLIME | automagy | Рунный Обсидиан: Слизь
-NETHERRUNE_ZOMBIE | automagy | Рунный Обсидиан: Зомби
-XPSTONE | automagy | Камень Душ
-GREEDYCHEST | automagy | Жадный сундук
-GOLEMWORKBENCH | automagy | Верстак Голема
-NETHERRUNE_SOUL | automagy | Рунный Обсидиан: Душа
-MIRRORMULTIDEST | automagy | Зеркало Рассеивания
-ENDERDISJUNCTION | automagy | Эндер-разъединение
-INVENTARIUM_DELIVERY | automagy | Спрос и Предложение
-SLIVERS | automagy | Магические Щепки
-ENCHANT_FISHING | automagy | Рыболовные Зачарования
-NETHERRUNE_CELERITY | automagy | Рунный Обсидиан: Cтремительность
-THIRSTYTANK_GLYPH | automagy | Символы Жажды
-CRYSTALBRAIN | automagy | Кристаллические Мозги
-VISHROOMSOUP | automagy | Висоморная Лихорадка
-NITORLIGHT | automagy | Пылающий Янтарь
-INVENTARIUM | automagy | Инвентариум
-INVENTARIUM_POINTER | automagy | Око Писаря
-REDCRYSTAL_RES | automagy | Резонирующий Красный Кристалл
-ENTROPICREFINING | automagy | Энтропийная переработка
-GOLEMWORKBENCH_UPGRADE | automagy | Улучшения Верстака Големов
-FOCUSCRAFTING | automagy | Набалдашник: Создание
-ENCHANTEDPAPER | automagy | Зачарованная Бумага
-AUTOHANDMIRROR | automagy | Голодное Зеркальце
-REDSTONETHEORY | automagy | Теория Красного Камня
-NETHERRUNE_SKELETON | automagy | Рунный Обсидиан: Череп
-ESSENTIALOCUS | automagy | Локатор Эссенции
-MAGICHOURGLASS | automagy | Магические Песочные часы
-AMNESIASTONE | automagy | Камень Амнезии
-FOCUSCRAFTING_UPGRADE | automagy | Улучшения для набалдашника Создания
-REDCRYSTAL_AMP | automagy | Усиленный Красный Кристалл
-INVENTARIUM_EXTRA | automagy | Сжатые Архивы
-NETHERRUNE_CRYSTAL | automagy | Рунный Обсидиан: Кристалл
-THAUMOSTATICREFUELER | automagy | Таумостатический Шпиль
-TALLYBLOCK | automagy | Шкатулка
-NETHERMIND | automagy | Разум из Глубин Ада
-VISREADER | automagy | Считыватель Вис
-FINICALMAW | automagy | Разборчивая Утроба
-AVARICIOUS | automagy | Структурированная Алчность
-TENACIOUSCHEST | automagy | Упрямый Сундук
-REDCRYSTAL_DENSE | automagy | Плотный Красный Кристалл
-SLIVERS_WARDING | automagy | Сдерживающие Щепки
-GOLEMINHIBITOR | automagy | Усмиритель Големов
-FOCUS_SHADOWBEAM | ttinkerer | Набалдашник: Теневой луч
-DIMENSION_SHARDS | ttinkerer | Кристаллы измерений
-TTENCH_VALIANCE | ttinkerer | Зачарование: Храбрость
-FIRE_TERRA | ttinkerer | Элементальный огонь: Terra
-TTENCH_SHOCKWAVE | ttinkerer | Зачарование: Ударная волна
-ICHOR_TOOLS | ttinkerer | Ихориевые инструменты
-GASEOUS_SHADOW | ttinkerer | Газ темноты
-FOCUS_DEFLECT | ttinkerer | Набалдашник: Искажение
-TTENCH_FOCUSED | ttinkerer | Зачарование: Направленный удар
-PLATFORM | ttinkerer | Эфирная платформа
-REPAIRER | ttinkerer | Таум-восстановитель
-INTERFACE | ttinkerer | Трансвектор
-SUMMON | ttinkerer | Призыв существ
-FOCUS_RECALL | ttinkerer | Набалдашник: Небесное вмешательство
-FOCUS_FLIGHT | ttinkerer | Набалдашник: Подъём
-ICHOR_AXE_GEM | ttinkerer | Пробуждённый ихориевый топор
-ICHOR_PICK_GEM | ttinkerer | Пробуждённая ихориевая кирка
-FOCUS_HEAL | ttinkerer | Набалдашник: Лечение
-BLOCK_TALISMAN | ttinkerer | Кольцо черной дыры
-MAGNETS | ttinkerer | Кинетический притяжатель
-FOCUS_TELEKINESIS | ttinkerer | Набалдашник: Телекинез
-TTENCH_VAMPIRISM | ttinkerer | Зачарование: Вампиризм
-ICHORCLOTH_BOOTS_GEM | ttinkerer | Сапоги щита
-CLEANSING_TALISMAN | ttinkerer | Талисман очищения
-SPELL_CLOTH | ttinkerer | Ткань поглощения заклинаний
-WARP_GATE | ttinkerer | Небесные порталы
-XP_TALISMAN | ttinkerer | Талисман удержания
-TTENCH_QUICK_DRAW | ttinkerer | Зачарование: Быстрая стрельба
-TTENCH_POUNCE | ttinkerer | Зачарование: Наскок
-ICHORCLOTH_LEGS_GEM | ttinkerer | Пылающие шаровары
-DISLOCATOR | ttinkerer | Трансвекторный дислокатор
-TTENCH_DESINTEGRATE | ttinkerer | Зачарование: Разрушение
-DARK_QUARTZ | ttinkerer | Закоптившийся кварц
-ICHOR_SWORD_GEM | ttinkerer | Пробуждённый ихориевый меч
-FIRE_AER | ttinkerer | Элементальный огонь: Aer
-ICHOR_POUCH | ttinkerer | Бездонная сумка
-ENCHANTER | ttinkerer | Осмотический стол зачарований
-FIRE_PERDITIO | ttinkerer | Элементальный огонь: Perditio
-ICHORCLOTH_HELM_GEM | ttinkerer | Капюшон адских глубин
-TTENCH_ASCENT_BOOST | ttinkerer | Зачарование: Прыгучесть
-CAP_ICHOR | ttinkerer | Ихорные наконечники
-TTENCH_DISPERSED | ttinkerer | Зачарование: Удар по площади
-TTENCH_SLOW_FALL | ttinkerer | Зачарование: Замедленное падение
-TTENCH_SHATTER | ttinkerer | Зачарование: Осколочность
-LEVITATOR_LOCOMOTIVE | ttinkerer | Левитатор
-ICHORCLOTH_ARMOR | ttinkerer | Ихоровая мантия
-ICHOR_SHOVEL_GEM | ttinkerer | Пробуждённая ихориевая лопата
-ICHOR_CLOTH | ttinkerer | Ихоровая ткань
-FOCUS_DISLOCATION | ttinkerer | Набалдашник: Перемещение
-FIRE_IGNIS | ttinkerer | Элементальный огонь: Ignis
-TTENCH_TUNNEL | ttinkerer | Зачарование: Туннель
-FIRE_ORDO | ttinkerer | Элементальный огонь: Ordo
-GASEOUS_LIGHT | ttinkerer | Светящийся газ
-CAT_AMULET | ttinkerer | Кошачий амулет
-ICHORIUM | ttinkerer | Ихорий
-ROD_ICHORCLOTH | ttinkerer | Ихорный серебродревесный стержень 
-BLOOD_SWORD | ttinkerer | Проклятое лезвие духа
-FIRE_AQUA | ttinkerer | Элементальный огонь: Aqua
-TTENCH_FINAL | ttinkerer | Зачарование: Добивающий удар
-FOCUS_XP_DRAIN | ttinkerer | Набалдашник: Высасывание опыта
-REVEALING_HELM | ttinkerer | Шлем откровения
-ICHORCLOTH_CHEST_GEM | ttinkerer | Роба стратосферы
-BRIGHT_NITOR | ttinkerer | Гиперэнергетический Нитор
-FUNNEL | ttinkerer | Воронка для эссенции
-ICHOR | ttinkerer | Ихор
-PROTOCLAY | ttinkerer | Протоглина
-ANIMATION_TABLET | ttinkerer | Динамическая дощечка
-INFUSED_POTIONS | ttinkerer | Наполненные семена
-GAS_REMOVER | ttinkerer | Рассеиватель газа
-TTENCH_AUTO_SMELT | ttinkerer | Зачарование: Огненное прикосновение
-FOCUS_SMELT | ttinkerer | Набалдашник: Пламя ифрита
-FOCUS_ENDER_CHEST | ttinkerer | Набалдашник: Вмешательство Края
-PLACEMENT_MIRROR | ttinkerer | Терраформинговое стекло
-MB_Scoop | magicbees | Таумический сачок
-MB_EssenceTime | magicbees | Эссенция утраченного времени
+NETHERRUNE_SLIME | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: РЎР»РёР·СЊ
+NETHERRUNE_ZOMBIE | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: Р—РѕРјР±Рё
+XPSTONE | automagy | РљР°РјРµРЅСЊ Р”СѓС€
+GREEDYCHEST | automagy | Р–Р°РґРЅС‹Р№ СЃСѓРЅРґСѓРє
+GOLEMWORKBENCH | automagy | Р’РµСЂСЃС‚Р°Рє Р“РѕР»РµРјР°
+NETHERRUNE_SOUL | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: Р”СѓС€Р°
+MIRRORMULTIDEST | automagy | Р—РµСЂРєР°Р»Рѕ Р Р°СЃСЃРµРёРІР°РЅРёСЏ
+ENDERDISJUNCTION | automagy | Р­РЅРґРµСЂ-СЂР°Р·СЉРµРґРёРЅРµРЅРёРµ
+INVENTARIUM_DELIVERY | automagy | РЎРїСЂРѕСЃ Рё РџСЂРµРґР»РѕР¶РµРЅРёРµ
+SLIVERS | automagy | РњР°РіРёС‡РµСЃРєРёРµ Р©РµРїРєРё
+ENCHANT_FISHING | automagy | Р С‹Р±РѕР»РѕРІРЅС‹Рµ Р—Р°С‡Р°СЂРѕРІР°РЅРёСЏ
+NETHERRUNE_CELERITY | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: CС‚СЂРµРјРёС‚РµР»СЊРЅРѕСЃС‚СЊ
+THIRSTYTANK_GLYPH | automagy | РЎРёРјРІРѕР»С‹ Р–Р°Р¶РґС‹
+CRYSTALBRAIN | automagy | РљСЂРёСЃС‚Р°Р»Р»РёС‡РµСЃРєРёРµ РњРѕР·РіРё
+VISHROOMSOUP | automagy | Р’РёСЃРѕРјРѕСЂРЅР°СЏ Р›РёС…РѕСЂР°РґРєР°
+NITORLIGHT | automagy | РџС‹Р»Р°СЋС‰РёР№ РЇРЅС‚Р°СЂСЊ
+INVENTARIUM | automagy | РРЅРІРµРЅС‚Р°СЂРёСѓРј
+INVENTARIUM_POINTER | automagy | РћРєРѕ РџРёСЃР°СЂСЏ
+REDCRYSTAL_RES | automagy | Р РµР·РѕРЅРёСЂСѓСЋС‰РёР№ РљСЂР°СЃРЅС‹Р№ РљСЂРёСЃС‚Р°Р»Р»
+ENTROPICREFINING | automagy | Р­РЅС‚СЂРѕРїРёР№РЅР°СЏ РїРµСЂРµСЂР°Р±РѕС‚РєР°
+GOLEMWORKBENCH_UPGRADE | automagy | РЈР»СѓС‡С€РµРЅРёСЏ Р’РµСЂСЃС‚Р°РєР° Р“РѕР»РµРјРѕРІ
+FOCUSCRAFTING | automagy | РќР°Р±Р°Р»РґР°С€РЅРёРє: РЎРѕР·РґР°РЅРёРµ
+ENCHANTEDPAPER | automagy | Р—Р°С‡Р°СЂРѕРІР°РЅРЅР°СЏ Р‘СѓРјР°РіР°
+AUTOHANDMIRROR | automagy | Р“РѕР»РѕРґРЅРѕРµ Р—РµСЂРєР°Р»СЊС†Рµ
+REDSTONETHEORY | automagy | РўРµРѕСЂРёСЏ РљСЂР°СЃРЅРѕРіРѕ РљР°РјРЅСЏ
+NETHERRUNE_SKELETON | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: Р§РµСЂРµРї
+ESSENTIALOCUS | automagy | Р›РѕРєР°С‚РѕСЂ Р­СЃСЃРµРЅС†РёРё
+MAGICHOURGLASS | automagy | РњР°РіРёС‡РµСЃРєРёРµ РџРµСЃРѕС‡РЅС‹Рµ С‡Р°СЃС‹
+AMNESIASTONE | automagy | РљР°РјРµРЅСЊ РђРјРЅРµР·РёРё
+FOCUSCRAFTING_UPGRADE | automagy | РЈР»СѓС‡С€РµРЅРёСЏ РґР»СЏ РЅР°Р±Р°Р»РґР°С€РЅРёРєР° РЎРѕР·РґР°РЅРёСЏ
+REDCRYSTAL_AMP | automagy | РЈСЃРёР»РµРЅРЅС‹Р№ РљСЂР°СЃРЅС‹Р№ РљСЂРёСЃС‚Р°Р»Р»
+INVENTARIUM_EXTRA | automagy | РЎР¶Р°С‚С‹Рµ РђСЂС…РёРІС‹
+NETHERRUNE_CRYSTAL | automagy | Р СѓРЅРЅС‹Р№ РћР±СЃРёРґРёР°РЅ: РљСЂРёСЃС‚Р°Р»Р»
+THAUMOSTATICREFUELER | automagy | РўР°СѓРјРѕСЃС‚Р°С‚РёС‡РµСЃРєРёР№ РЁРїРёР»СЊ
+TALLYBLOCK | automagy | РЁРєР°С‚СѓР»РєР°
+NETHERMIND | automagy | Р Р°Р·СѓРј РёР· Р“Р»СѓР±РёРЅ РђРґР°
+VISREADER | automagy | РЎС‡РёС‚С‹РІР°С‚РµР»СЊ Р’РёСЃ
+FINICALMAW | automagy | Р Р°Р·Р±РѕСЂС‡РёРІР°СЏ РЈС‚СЂРѕР±Р°
+AVARICIOUS | automagy | РЎС‚СЂСѓРєС‚СѓСЂРёСЂРѕРІР°РЅРЅР°СЏ РђР»С‡РЅРѕСЃС‚СЊ
+TENACIOUSCHEST | automagy | РЈРїСЂСЏРјС‹Р№ РЎСѓРЅРґСѓРє
+REDCRYSTAL_DENSE | automagy | РџР»РѕС‚РЅС‹Р№ РљСЂР°СЃРЅС‹Р№ РљСЂРёСЃС‚Р°Р»Р»
+SLIVERS_WARDING | automagy | РЎРґРµСЂР¶РёРІР°СЋС‰РёРµ Р©РµРїРєРё
+GOLEMINHIBITOR | automagy | РЈСЃРјРёСЂРёС‚РµР»СЊ Р“РѕР»РµРјРѕРІ
+FOCUS_SHADOWBEAM | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: РўРµРЅРµРІРѕР№ Р»СѓС‡
+DIMENSION_SHARDS | ttinkerer | РљСЂРёСЃС‚Р°Р»Р»С‹ РёР·РјРµСЂРµРЅРёР№
+TTENCH_VALIANCE | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РҐСЂР°Р±СЂРѕСЃС‚СЊ
+FIRE_TERRA | ttinkerer | Р­Р»РµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РѕРіРѕРЅСЊ: Terra
+TTENCH_SHOCKWAVE | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РЈРґР°СЂРЅР°СЏ РІРѕР»РЅР°
+ICHOR_TOOLS | ttinkerer | РС…РѕСЂРёРµРІС‹Рµ РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹
+GASEOUS_SHADOW | ttinkerer | Р“Р°Р· С‚РµРјРЅРѕС‚С‹
+FOCUS_DEFLECT | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: РСЃРєР°Р¶РµРЅРёРµ
+TTENCH_FOCUSED | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РќР°РїСЂР°РІР»РµРЅРЅС‹Р№ СѓРґР°СЂ
+PLATFORM | ttinkerer | Р­С„РёСЂРЅР°СЏ РїР»Р°С‚С„РѕСЂРјР°
+REPAIRER | ttinkerer | РўР°СѓРј-РІРѕСЃСЃС‚Р°РЅРѕРІРёС‚РµР»СЊ
+INTERFACE | ttinkerer | РўСЂР°РЅСЃРІРµРєС‚РѕСЂ
+SUMMON | ttinkerer | РџСЂРёР·С‹РІ СЃСѓС‰РµСЃС‚РІ
+FOCUS_RECALL | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: РќРµР±РµСЃРЅРѕРµ РІРјРµС€Р°С‚РµР»СЊСЃС‚РІРѕ
+FOCUS_FLIGHT | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: РџРѕРґСЉС‘Рј
+ICHOR_AXE_GEM | ttinkerer | РџСЂРѕР±СѓР¶РґС‘РЅРЅС‹Р№ РёС…РѕСЂРёРµРІС‹Р№ С‚РѕРїРѕСЂ
+ICHOR_PICK_GEM | ttinkerer | РџСЂРѕР±СѓР¶РґС‘РЅРЅР°СЏ РёС…РѕСЂРёРµРІР°СЏ РєРёСЂРєР°
+FOCUS_HEAL | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р›РµС‡РµРЅРёРµ
+BLOCK_TALISMAN | ttinkerer | РљРѕР»СЊС†Рѕ С‡РµСЂРЅРѕР№ РґС‹СЂС‹
+MAGNETS | ttinkerer | РљРёРЅРµС‚РёС‡РµСЃРєРёР№ РїСЂРёС‚СЏР¶Р°С‚РµР»СЊ
+FOCUS_TELEKINESIS | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: РўРµР»РµРєРёРЅРµР·
+TTENCH_VAMPIRISM | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: Р’Р°РјРїРёСЂРёР·Рј
+ICHORCLOTH_BOOTS_GEM | ttinkerer | РЎР°РїРѕРіРё С‰РёС‚Р°
+CLEANSING_TALISMAN | ttinkerer | РўР°Р»РёСЃРјР°РЅ РѕС‡РёС‰РµРЅРёСЏ
+SPELL_CLOTH | ttinkerer | РўРєР°РЅСЊ РїРѕРіР»РѕС‰РµРЅРёСЏ Р·Р°РєР»РёРЅР°РЅРёР№
+WARP_GATE | ttinkerer | РќРµР±РµСЃРЅС‹Рµ РїРѕСЂС‚Р°Р»С‹
+XP_TALISMAN | ttinkerer | РўР°Р»РёСЃРјР°РЅ СѓРґРµСЂР¶Р°РЅРёСЏ
+TTENCH_QUICK_DRAW | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: Р‘С‹СЃС‚СЂР°СЏ СЃС‚СЂРµР»СЊР±Р°
+TTENCH_POUNCE | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РќР°СЃРєРѕРє
+ICHORCLOTH_LEGS_GEM | ttinkerer | РџС‹Р»Р°СЋС‰РёРµ С€Р°СЂРѕРІР°СЂС‹
+DISLOCATOR | ttinkerer | РўСЂР°РЅСЃРІРµРєС‚РѕСЂРЅС‹Р№ РґРёСЃР»РѕРєР°С‚РѕСЂ
+TTENCH_DESINTEGRATE | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: Р Р°Р·СЂСѓС€РµРЅРёРµ
+DARK_QUARTZ | ttinkerer | Р—Р°РєРѕРїС‚РёРІС€РёР№СЃСЏ РєРІР°СЂС†
+ICHOR_SWORD_GEM | ttinkerer | РџСЂРѕР±СѓР¶РґС‘РЅРЅС‹Р№ РёС…РѕСЂРёРµРІС‹Р№ РјРµС‡
+FIRE_AER | ttinkerer | Р­Р»РµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РѕРіРѕРЅСЊ: Aer
+ICHOR_POUCH | ttinkerer | Р‘РµР·РґРѕРЅРЅР°СЏ СЃСѓРјРєР°
+ENCHANTER | ttinkerer | РћСЃРјРѕС‚РёС‡РµСЃРєРёР№ СЃС‚РѕР» Р·Р°С‡Р°СЂРѕРІР°РЅРёР№
+FIRE_PERDITIO | ttinkerer | Р­Р»РµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РѕРіРѕРЅСЊ: Perditio
+ICHORCLOTH_HELM_GEM | ttinkerer | РљР°РїСЋС€РѕРЅ Р°РґСЃРєРёС… РіР»СѓР±РёРЅ
+TTENCH_ASCENT_BOOST | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РџСЂС‹РіСѓС‡РµСЃС‚СЊ
+CAP_ICHOR | ttinkerer | РС…РѕСЂРЅС‹Рµ РЅР°РєРѕРЅРµС‡РЅРёРєРё
+TTENCH_DISPERSED | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РЈРґР°СЂ РїРѕ РїР»РѕС‰Р°РґРё
+TTENCH_SLOW_FALL | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: Р—Р°РјРµРґР»РµРЅРЅРѕРµ РїР°РґРµРЅРёРµ
+TTENCH_SHATTER | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РћСЃРєРѕР»РѕС‡РЅРѕСЃС‚СЊ
+LEVITATOR_LOCOMOTIVE | ttinkerer | Р›РµРІРёС‚Р°С‚РѕСЂ
+ICHORCLOTH_ARMOR | ttinkerer | РС…РѕСЂРѕРІР°СЏ РјР°РЅС‚РёСЏ
+ICHOR_SHOVEL_GEM | ttinkerer | РџСЂРѕР±СѓР¶РґС‘РЅРЅР°СЏ РёС…РѕСЂРёРµРІР°СЏ Р»РѕРїР°С‚Р°
+ICHOR_CLOTH | ttinkerer | РС…РѕСЂРѕРІР°СЏ С‚РєР°РЅСЊ
+FOCUS_DISLOCATION | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: РџРµСЂРµРјРµС‰РµРЅРёРµ
+FIRE_IGNIS | ttinkerer | Р­Р»РµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РѕРіРѕРЅСЊ: Ignis
+TTENCH_TUNNEL | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РўСѓРЅРЅРµР»СЊ
+FIRE_ORDO | ttinkerer | Р­Р»РµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РѕРіРѕРЅСЊ: Ordo
+GASEOUS_LIGHT | ttinkerer | РЎРІРµС‚СЏС‰РёР№СЃСЏ РіР°Р·
+CAT_AMULET | ttinkerer | РљРѕС€Р°С‡РёР№ Р°РјСѓР»РµС‚
+ICHORIUM | ttinkerer | РС…РѕСЂРёР№
+ROD_ICHORCLOTH | ttinkerer | РС…РѕСЂРЅС‹Р№ СЃРµСЂРµР±СЂРѕРґСЂРµРІРµСЃРЅС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ 
+BLOOD_SWORD | ttinkerer | РџСЂРѕРєР»СЏС‚РѕРµ Р»РµР·РІРёРµ РґСѓС…Р°
+FIRE_AQUA | ttinkerer | Р­Р»РµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РѕРіРѕРЅСЊ: Aqua
+TTENCH_FINAL | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: Р”РѕР±РёРІР°СЋС‰РёР№ СѓРґР°СЂ
+FOCUS_XP_DRAIN | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р’С‹СЃР°СЃС‹РІР°РЅРёРµ РѕРїС‹С‚Р°
+REVEALING_HELM | ttinkerer | РЁР»РµРј РѕС‚РєСЂРѕРІРµРЅРёСЏ
+ICHORCLOTH_CHEST_GEM | ttinkerer | Р РѕР±Р° СЃС‚СЂР°С‚РѕСЃС„РµСЂС‹
+BRIGHT_NITOR | ttinkerer | Р“РёРїРµСЂСЌРЅРµСЂРіРµС‚РёС‡РµСЃРєРёР№ РќРёС‚РѕСЂ
+FUNNEL | ttinkerer | Р’РѕСЂРѕРЅРєР° РґР»СЏ СЌСЃСЃРµРЅС†РёРё
+ICHOR | ttinkerer | РС…РѕСЂ
+PROTOCLAY | ttinkerer | РџСЂРѕС‚РѕРіР»РёРЅР°
+ANIMATION_TABLET | ttinkerer | Р”РёРЅР°РјРёС‡РµСЃРєР°СЏ РґРѕС‰РµС‡РєР°
+INFUSED_POTIONS | ttinkerer | РќР°РїРѕР»РЅРµРЅРЅС‹Рµ СЃРµРјРµРЅР°
+GAS_REMOVER | ttinkerer | Р Р°СЃСЃРµРёРІР°С‚РµР»СЊ РіР°Р·Р°
+TTENCH_AUTO_SMELT | ttinkerer | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РћРіРЅРµРЅРЅРѕРµ РїСЂРёРєРѕСЃРЅРѕРІРµРЅРёРµ
+FOCUS_SMELT | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: РџР»Р°РјСЏ РёС„СЂРёС‚Р°
+FOCUS_ENDER_CHEST | ttinkerer | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р’РјРµС€Р°С‚РµР»СЊСЃС‚РІРѕ РљСЂР°СЏ
+PLACEMENT_MIRROR | ttinkerer | РўРµСЂСЂР°С„РѕСЂРјРёРЅРіРѕРІРѕРµ СЃС‚РµРєР»Рѕ
+MB_Scoop | magicbees | РўР°СѓРјРёС‡РµСЃРєРёР№ СЃР°С‡РѕРє
+MB_EssenceTime | magicbees | Р­СЃСЃРµРЅС†РёСЏ СѓС‚СЂР°С‡РµРЅРЅРѕРіРѕ РІСЂРµРјРµРЅРё
 MB_Root | magicbees | Apimancy
-MB_EssenceArmor | magicbees | Эссенция вечной прочности
-MB_Grafter | magicbees | Таумический садовый нож
-MB_EssenceLife | magicbees | Эссенция ложной жизни
-MB_EssenceOblivion | magicbees | Эссенция бесконечного равнодушия
+MB_EssenceArmor | magicbees | Р­СЃСЃРµРЅС†РёСЏ РІРµС‡РЅРѕР№ РїСЂРѕС‡РЅРѕСЃС‚Рё
+MB_Grafter | magicbees | РўР°СѓРјРёС‡РµСЃРєРёР№ СЃР°РґРѕРІС‹Р№ РЅРѕР¶
+MB_EssenceLife | magicbees | Р­СЃСЃРµРЅС†РёСЏ Р»РѕР¶РЅРѕР№ Р¶РёР·РЅРё
+MB_EssenceOblivion | magicbees | Р­СЃСЃРµРЅС†РёСЏ Р±РµСЃРєРѕРЅРµС‡РЅРѕРіРѕ СЂР°РІРЅРѕРґСѓС€РёСЏ
 MB_VisAuraProvider | magicbees | Vis Apiary Booster
-MB_LoreFragment | magicbees | Фрагменты знаний
-MB_FrameMagic | magicbees | Магическая рамка
-MB_EssenceUnstable | magicbees | Эссенция изменчивого постоянства
-MB_EssenceDeath | magicbees | Эссенция неглубокой могилы
-MB_DimensionalSingularity | magicbees | Пространственная сингулярность
-Thaumium Plate | emt | Таум-пластина
-Kris-tmas Focus | emt | Набалдашник: Рождество
-Macerating Native Ore Clusters | emt | Раздробление скоплений руд
-Diamond Chainsaw | emt | Алмазная электропила
-Auram Generator | emt | Auram генератор
-Fire Infused Solar Panels | emt | Наполненная огнём, сжатая солнечная панель
-Mjolnir | emt | Сломанная реликвия Мьёлнира
-UU-Matter Infusion | emt | Наполнение материей
-Electric Goggles | emt | Электрические очки откровения
-Solar Helmet of Revealing | emt | Солнечные очки откровения
-Potentia Generator | emt | Potentia генератор
-Nano Boots of the Traveller | emt | Нано-ботинки путешественника
-Explosion Focus | emt | Набалдашник: Взрыв
-Electric Hoe of Growth | emt | Электрическая мотыга Роста
-Quantum Wings | emt | Квантовые крылья
-The Legend | emt | Мьёлнир
-Etheral Processor | emt | Эфирный обработчик
-Aer Generator | emt | Aer генератор
-Infused Quantum Armor | emt | Наполненный квантовый нагрудник.
-Compressed Solars | emt | Сжатые солнечные панели
-Armor Charging Ring | emt | Кольцо для зарядки брони
-Thaumium Chainsaw | emt | Таум-электропила
-Inventory Charging Ring | emt | Кольцо для зарядки инвентаря
-Thaumium Drill | emt | Таум-бур
-Portable Node | emt | Переносной узел
-The One Ring | emt | Кольцо Всевластия
-Thaumium Omnitool | emt | Таум-мультиинструмент
-Water Infused Solar Panels | emt | Наполненная водой, сжатая солнечная панель
-Ignis Generator | emt | Ignis генератор
-Quantum Goggles of Revealing | emt | Квантовые очки откровения
-Electric Cloud | emt | Наэлектризованное облако
-Chainsaw of the Stream | emt | Электропила Потока
-Nanosuit Goggles of Revealing | emt | Нано-очки откровения
-Feather Wings | emt | Склеенные крылья из картона
-Wand Focus: Charging | emt | Набалдашник: Зарядка
-Shield Focus | emt | Набалдашник: Щит
-Thaumium Reinforced Wings | emt | Укреплённые таум-крылья
-Energy Ball Focus | emt | Набалдашник: энерго-шар
+MB_LoreFragment | magicbees | Р¤СЂР°РіРјРµРЅС‚С‹ Р·РЅР°РЅРёР№
+MB_FrameMagic | magicbees | РњР°РіРёС‡РµСЃРєР°СЏ СЂР°РјРєР°
+MB_EssenceUnstable | magicbees | Р­СЃСЃРµРЅС†РёСЏ РёР·РјРµРЅС‡РёРІРѕРіРѕ РїРѕСЃС‚РѕСЏРЅСЃС‚РІР°
+MB_EssenceDeath | magicbees | Р­СЃСЃРµРЅС†РёСЏ РЅРµРіР»СѓР±РѕРєРѕР№ РјРѕРіРёР»С‹
+MB_DimensionalSingularity | magicbees | РџСЂРѕСЃС‚СЂР°РЅСЃС‚РІРµРЅРЅР°СЏ СЃРёРЅРіСѓР»СЏСЂРЅРѕСЃС‚СЊ
+Thaumium Plate | emt | РўР°СѓРј-РїР»Р°СЃС‚РёРЅР°
+Kris-tmas Focus | emt | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р РѕР¶РґРµСЃС‚РІРѕ
+Macerating Native Ore Clusters | emt | Р Р°Р·РґСЂРѕР±Р»РµРЅРёРµ СЃРєРѕРїР»РµРЅРёР№ СЂСѓРґ
+Diamond Chainsaw | emt | РђР»РјР°Р·РЅР°СЏ СЌР»РµРєС‚СЂРѕРїРёР»Р°
+Auram Generator | emt | Auram РіРµРЅРµСЂР°С‚РѕСЂ
+Fire Infused Solar Panels | emt | РќР°РїРѕР»РЅРµРЅРЅР°СЏ РѕРіРЅС‘Рј, СЃР¶Р°С‚Р°СЏ СЃРѕР»РЅРµС‡РЅР°СЏ РїР°РЅРµР»СЊ
+Mjolnir | emt | РЎР»РѕРјР°РЅРЅР°СЏ СЂРµР»РёРєРІРёСЏ РњСЊС‘Р»РЅРёСЂР°
+UU-Matter Infusion | emt | РќР°РїРѕР»РЅРµРЅРёРµ РјР°С‚РµСЂРёРµР№
+Electric Goggles | emt | Р­Р»РµРєС‚СЂРёС‡РµСЃРєРёРµ РѕС‡РєРё РѕС‚РєСЂРѕРІРµРЅРёСЏ
+Solar Helmet of Revealing | emt | РЎРѕР»РЅРµС‡РЅС‹Рµ РѕС‡РєРё РѕС‚РєСЂРѕРІРµРЅРёСЏ
+Potentia Generator | emt | Potentia РіРµРЅРµСЂР°С‚РѕСЂ
+Nano Boots of the Traveller | emt | РќР°РЅРѕ-Р±РѕС‚РёРЅРєРё РїСѓС‚РµС€РµСЃС‚РІРµРЅРЅРёРєР°
+Explosion Focus | emt | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р’Р·СЂС‹РІ
+Electric Hoe of Growth | emt | Р­Р»РµРєС‚СЂРёС‡РµСЃРєР°СЏ РјРѕС‚С‹РіР° Р РѕСЃС‚Р°
+Quantum Wings | emt | РљРІР°РЅС‚РѕРІС‹Рµ РєСЂС‹Р»СЊСЏ
+The Legend | emt | РњСЊС‘Р»РЅРёСЂ
+Etheral Processor | emt | Р­С„РёСЂРЅС‹Р№ РѕР±СЂР°Р±РѕС‚С‡РёРє
+Aer Generator | emt | Aer РіРµРЅРµСЂР°С‚РѕСЂ
+Infused Quantum Armor | emt | РќР°РїРѕР»РЅРµРЅРЅС‹Р№ РєРІР°РЅС‚РѕРІС‹Р№ РЅР°РіСЂСѓРґРЅРёРє.
+Compressed Solars | emt | РЎР¶Р°С‚С‹Рµ СЃРѕР»РЅРµС‡РЅС‹Рµ РїР°РЅРµР»Рё
+Armor Charging Ring | emt | РљРѕР»СЊС†Рѕ РґР»СЏ Р·Р°СЂСЏРґРєРё Р±СЂРѕРЅРё
+Thaumium Chainsaw | emt | РўР°СѓРј-СЌР»РµРєС‚СЂРѕРїРёР»Р°
+Inventory Charging Ring | emt | РљРѕР»СЊС†Рѕ РґР»СЏ Р·Р°СЂСЏРґРєРё РёРЅРІРµРЅС‚Р°СЂСЏ
+Thaumium Drill | emt | РўР°СѓРј-Р±СѓСЂ
+Portable Node | emt | РџРµСЂРµРЅРѕСЃРЅРѕР№ СѓР·РµР»
+The One Ring | emt | РљРѕР»СЊС†Рѕ Р’СЃРµРІР»Р°СЃС‚РёСЏ
+Thaumium Omnitool | emt | РўР°СѓРј-РјСѓР»СЊС‚РёРёРЅСЃС‚СЂСѓРјРµРЅС‚
+Water Infused Solar Panels | emt | РќР°РїРѕР»РЅРµРЅРЅР°СЏ РІРѕРґРѕР№, СЃР¶Р°С‚Р°СЏ СЃРѕР»РЅРµС‡РЅР°СЏ РїР°РЅРµР»СЊ
+Ignis Generator | emt | Ignis РіРµРЅРµСЂР°С‚РѕСЂ
+Quantum Goggles of Revealing | emt | РљРІР°РЅС‚РѕРІС‹Рµ РѕС‡РєРё РѕС‚РєСЂРѕРІРµРЅРёСЏ
+Electric Cloud | emt | РќР°СЌР»РµРєС‚СЂРёР·РѕРІР°РЅРЅРѕРµ РѕР±Р»Р°РєРѕ
+Chainsaw of the Stream | emt | Р­Р»РµРєС‚СЂРѕРїРёР»Р° РџРѕС‚РѕРєР°
+Nanosuit Goggles of Revealing | emt | РќР°РЅРѕ-РѕС‡РєРё РѕС‚РєСЂРѕРІРµРЅРёСЏ
+Feather Wings | emt | РЎРєР»РµРµРЅРЅС‹Рµ РєСЂС‹Р»СЊСЏ РёР· РєР°СЂС‚РѕРЅР°
+Wand Focus: Charging | emt | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р—Р°СЂСЏРґРєР°
+Shield Focus | emt | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р©РёС‚
+Thaumium Reinforced Wings | emt | РЈРєСЂРµРїР»С‘РЅРЅС‹Рµ С‚Р°СѓРј-РєСЂС‹Р»СЊСЏ
+Energy Ball Focus | emt | РќР°Р±Р°Р»РґР°С€РЅРёРє: СЌРЅРµСЂРіРѕ-С€Р°СЂ
 Electric Magic Tools | emt | Electric Magic Tools
-Arbor Generator | emt | Arbor генератор
-Lightning Summoner | emt | Призыватель молний
-Entropy Infused Solar Panels | emt | Наполненная энтропией, сжатая солнечная панель
-Electric Boots of the Traveller | emt | Электрические ботинки путешественника
-Electric Scribing Tools | emt | Электрическая чернильница с пером
-Shield Block | emt | Щит-блок
-Nanosuit Wings | emt | Нано-крылья
-Diamond Omnitool | emt | Алмазный мультиинструмент
-Air Infused Solar Panels | emt | Наполненная воздухом, сжатая солнечная панель
-Wand Focus: Wand Charging | emt | Набалдашник: Зарядка жезла
-Order Infused Solar Panels | emt | Наполненная порядком, сжатая солнечная панель
-Drill of the Rockbreaker | emt | Бур Камнелома
-Supercharged Mjolnir | emt | Сильнозаряженный Мьёлнир
-Industrial Wand Charging Station | emt | Промышленная станция зарядки жезлов
-Earth Infused Solar Panels | emt | Наполненная землёй, сжатая солнечная панель
-Iron Omnitool | emt | Железный мультиинструмент
-Quantum Boots of the Traveller | emt | Квантовые ботинки путешественника
-Tiny Uranium | emt | Кусочки урана
-SKULLAXE | forbidden | Топор собирателя черепов
-ROD_dreamwood_staff | forbidden | Посох из древесины мечтаний
-ARCANECAKE | forbidden | Таумический торт
-TAINTPICK | forbidden | Кирка искажения
-CAP_manasteel | forbidden | Наконечники из манастали
+Arbor Generator | emt | Arbor РіРµРЅРµСЂР°С‚РѕСЂ
+Lightning Summoner | emt | РџСЂРёР·С‹РІР°С‚РµР»СЊ РјРѕР»РЅРёР№
+Entropy Infused Solar Panels | emt | РќР°РїРѕР»РЅРµРЅРЅР°СЏ СЌРЅС‚СЂРѕРїРёРµР№, СЃР¶Р°С‚Р°СЏ СЃРѕР»РЅРµС‡РЅР°СЏ РїР°РЅРµР»СЊ
+Electric Boots of the Traveller | emt | Р­Р»РµРєС‚СЂРёС‡РµСЃРєРёРµ Р±РѕС‚РёРЅРєРё РїСѓС‚РµС€РµСЃС‚РІРµРЅРЅРёРєР°
+Electric Scribing Tools | emt | Р­Р»РµРєС‚СЂРёС‡РµСЃРєР°СЏ С‡РµСЂРЅРёР»СЊРЅРёС†Р° СЃ РїРµСЂРѕРј
+Shield Block | emt | Р©РёС‚-Р±Р»РѕРє
+Nanosuit Wings | emt | РќР°РЅРѕ-РєСЂС‹Р»СЊСЏ
+Diamond Omnitool | emt | РђР»РјР°Р·РЅС‹Р№ РјСѓР»СЊС‚РёРёРЅСЃС‚СЂСѓРјРµРЅС‚
+Air Infused Solar Panels | emt | РќР°РїРѕР»РЅРµРЅРЅР°СЏ РІРѕР·РґСѓС…РѕРј, СЃР¶Р°С‚Р°СЏ СЃРѕР»РЅРµС‡РЅР°СЏ РїР°РЅРµР»СЊ
+Wand Focus: Wand Charging | emt | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р—Р°СЂСЏРґРєР° Р¶РµР·Р»Р°
+Order Infused Solar Panels | emt | РќР°РїРѕР»РЅРµРЅРЅР°СЏ РїРѕСЂСЏРґРєРѕРј, СЃР¶Р°С‚Р°СЏ СЃРѕР»РЅРµС‡РЅР°СЏ РїР°РЅРµР»СЊ
+Drill of the Rockbreaker | emt | Р‘СѓСЂ РљР°РјРЅРµР»РѕРјР°
+Supercharged Mjolnir | emt | РЎРёР»СЊРЅРѕР·Р°СЂСЏР¶РµРЅРЅС‹Р№ РњСЊС‘Р»РЅРёСЂ
+Industrial Wand Charging Station | emt | РџСЂРѕРјС‹С€Р»РµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ Р·Р°СЂСЏРґРєРё Р¶РµР·Р»РѕРІ
+Earth Infused Solar Panels | emt | РќР°РїРѕР»РЅРµРЅРЅР°СЏ Р·РµРјР»С‘Р№, СЃР¶Р°С‚Р°СЏ СЃРѕР»РЅРµС‡РЅР°СЏ РїР°РЅРµР»СЊ
+Iron Omnitool | emt | Р–РµР»РµР·РЅС‹Р№ РјСѓР»СЊС‚РёРёРЅСЃС‚СЂСѓРјРµРЅС‚
+Quantum Boots of the Traveller | emt | РљРІР°РЅС‚РѕРІС‹Рµ Р±РѕС‚РёРЅРєРё РїСѓС‚РµС€РµСЃС‚РІРµРЅРЅРёРєР°
+Tiny Uranium | emt | РљСѓСЃРѕС‡РєРё СѓСЂР°РЅР°
+SKULLAXE | forbidden | РўРѕРїРѕСЂ СЃРѕР±РёСЂР°С‚РµР»СЏ С‡РµСЂРµРїРѕРІ
+ROD_dreamwood_staff | forbidden | РџРѕСЃРѕС… РёР· РґСЂРµРІРµСЃРёРЅС‹ РјРµС‡С‚Р°РЅРёР№
+ARCANECAKE | forbidden | РўР°СѓРјРёС‡РµСЃРєРёР№ С‚РѕСЂС‚
+TAINTPICK | forbidden | РљРёСЂРєР° РёСЃРєР°Р¶РµРЅРёСЏ
+CAP_manasteel | forbidden | РќР°РєРѕРЅРµС‡РЅРёРєРё РёР· РјР°РЅР°СЃС‚Р°Р»Рё
 ROD_dreamwood | forbidden | forbidden.research_name.ROD_dreamwood
 TAINTTREE | forbidden | Tainted Tree
-ROD_livingwood | forbidden | Стержень из живой древесины
-WRATH | forbidden | Зачарование: Гнев
-SCHOOLS | forbidden | Школы магии
-WHISPERWEED | forbidden | Шепчущий сорняк
-TRANSEMERALD | forbidden | Трансмутация изумруда
-HELLFIRE | forbidden | Властелин адского огня
-VOIDTOUCHED | forbidden | Зачарование: Прикосновение пустоты
-ROD_tainted | forbidden | Заражённый стержень
-CONSUMING | forbidden | Зачарование: Потребление
-CLUSTER | forbidden | Зачарование: Огненное ядро
-SUBCOLLAR | forbidden | Ошейник боли
-ROD_infernal | forbidden | Адский стержень
-CRYSTALWELL | forbidden | Кристальная чернильница с пером
-FORK | forbidden | Адские вилы
-RINGFOOD | forbidden | Кольцо насыщения
-CORRUPTING | forbidden | Зачарование: Искажение
-BOTANY | forbidden | Ботаника
+ROD_livingwood | forbidden | РЎС‚РµСЂР¶РµРЅСЊ РёР· Р¶РёРІРѕР№ РґСЂРµРІРµСЃРёРЅС‹
+WRATH | forbidden | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: Р“РЅРµРІ
+SCHOOLS | forbidden | РЁРєРѕР»С‹ РјР°РіРёРё
+WHISPERWEED | forbidden | РЁРµРїС‡СѓС‰РёР№ СЃРѕСЂРЅСЏРє
+TRANSEMERALD | forbidden | РўСЂР°РЅСЃРјСѓС‚Р°С†РёСЏ РёР·СѓРјСЂСѓРґР°
+HELLFIRE | forbidden | Р’Р»Р°СЃС‚РµР»РёРЅ Р°РґСЃРєРѕРіРѕ РѕРіРЅСЏ
+VOIDTOUCHED | forbidden | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РџСЂРёРєРѕСЃРЅРѕРІРµРЅРёРµ РїСѓСЃС‚РѕС‚С‹
+ROD_tainted | forbidden | Р—Р°СЂР°Р¶С‘РЅРЅС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+CONSUMING | forbidden | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РџРѕС‚СЂРµР±Р»РµРЅРёРµ
+CLUSTER | forbidden | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РћРіРЅРµРЅРЅРѕРµ СЏРґСЂРѕ
+SUBCOLLAR | forbidden | РћС€РµР№РЅРёРє Р±РѕР»Рё
+ROD_infernal | forbidden | РђРґСЃРєРёР№ СЃС‚РµСЂР¶РµРЅСЊ
+CRYSTALWELL | forbidden | РљСЂРёСЃС‚Р°Р»СЊРЅР°СЏ С‡РµСЂРЅРёР»СЊРЅРёС†Р° СЃ РїРµСЂРѕРј
+FORK | forbidden | РђРґСЃРєРёРµ РІРёР»С‹
+RINGFOOD | forbidden | РљРѕР»СЊС†Рѕ РЅР°СЃС‹С‰РµРЅРёСЏ
+CORRUPTING | forbidden | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РСЃРєР°Р¶РµРЅРёРµ
+BOTANY | forbidden | Р‘РѕС‚Р°РЅРёРєР°
 TAINTSTONE | forbidden | Tainted Stone
-RIDINGCROP | forbidden | Хлыст
-NETHERSHARDS | forbidden | Осколки Нижнего мира
+RIDINGCROP | forbidden | РҐР»С‹СЃС‚
+NETHERSHARDS | forbidden | РћСЃРєРѕР»РєРё РќРёР¶РЅРµРіРѕ РјРёСЂР°
 PRIMEWELL | forbidden | Primal Scribing Tools
-GREEDY | forbidden | Зачарование: Капиталист
-EDUCATIONAL | forbidden | Зачарование: Образование
+GREEDY | forbidden | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РљР°РїРёС‚Р°Р»РёСЃС‚
+EDUCATIONAL | forbidden | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: РћР±СЂР°Р·РѕРІР°РЅРёРµ
 ROD_profane | forbidden | Profane Wand
-IMPACT | forbidden | Зачарование: Влияние
-WRATHCAGE | forbidden | Клетка гнева
-CAP_elementium | forbidden | Элементиевые наконечники
-BLACKFLOWER | forbidden | Мрачная роза
-EUCLIDAISY | forbidden | Евклидова маргаритка
-MORPHTOOLS | forbidden | Хамелеоновые инструменты
-TAINTSHOVEL | forbidden | Лопата очистителя
+IMPACT | forbidden | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ: Р’Р»РёСЏРЅРёРµ
+WRATHCAGE | forbidden | РљР»РµС‚РєР° РіРЅРµРІР°
+CAP_elementium | forbidden | Р­Р»РµРјРµРЅС‚РёРµРІС‹Рµ РЅР°РєРѕРЅРµС‡РЅРёРєРё
+BLACKFLOWER | forbidden | РњСЂР°С‡РЅР°СЏ СЂРѕР·Р°
+EUCLIDAISY | forbidden | Р•РІРєР»РёРґРѕРІР° РјР°СЂРіР°СЂРёС‚РєР°
+MORPHTOOLS | forbidden | РҐР°РјРµР»РµРѕРЅРѕРІС‹Рµ РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹
+TAINTSHOVEL | forbidden | Р›РѕРїР°С‚Р° РѕС‡РёСЃС‚РёС‚РµР»СЏ
 CAP_terrasteel | forbidden | Terrasteel Caps
-TAINTHISTLE | forbidden | Чертополох
+TAINTHISTLE | forbidden | Р§РµСЂС‚РѕРїРѕР»РѕС…
 FOCUSBLINK | forbidden | Wand Focus: Blink
-CREATIONSHARD | taintedmagic | Кристалл Созидания
-TMFOCUSFIRE | taintedmagic | Набалдашники
-VOIDFORTRESS | taintedmagic | Пустотная боевая броня
-MACEFOCUS | taintedmagic | Набалдашник: Булава Мага
-ELDRITCHFOCUS | taintedmagic | Набалдашник: Тёмная Материя
-CAP_cloth | taintedmagic | Тканевый наконечник
-SHADOWCLOTH | taintedmagic | Теневая Ткань
-VOIDWALKERBOOTS | taintedmagic | Ботинки пустотного странника
-FOCUSWEATHER | taintedmagic | Набалдашник: Погода
-THAUMICDISASSEMBLER | taintedmagic | Таумический Дизассамблер
-INSCRIPTIONTAINT | taintedmagic | Заражённое начертание
-WARPTREE | taintedmagic | Искаженное дерево
-BLOODLUSTUPGRADE | taintedmagic | Улучшение 5 уровня: Жажда крови
-INSCRIPTIONFIRE | taintedmagic | Вулканическое начертание
-SHADOWMETAL | taintedmagic | Теневой металл
-VOIDGOGGLES | taintedmagic | Пустотные очки откровения
-CRYSTALDAGGER | taintedmagic | Кристаллическая Кровь
-FOCUSLUMOS | taintedmagic | Набалдашник: Свет
-TAINTFOCUS | taintedmagic | Набалдашник: Зараженный шторм
-PRAETORARMOR | taintedmagic | Броня Претора
-VOIDSENTBLOOD | taintedmagic | Пустотная кровь
-VOIDSASH | taintedmagic | Пояс Теневой Поступи
-WARPEDGOGGLES | taintedmagic | Искаженные очки откровения
-PRIMALBLADE | taintedmagic | Край сингулярности
-CRIMSONROBES | taintedmagic | Кровавая ткань
-EVILSHARDS | taintedmagic | Несбалансированные кристаллы
-FOCUSTAINTEDBLAST | taintedmagic | Набалдашник: Зараженная волна
-CRIMSONBLADE | taintedmagic | Багровый Клинок
-INSCRIPTIONUNDEAD | taintedmagic | Бессмертное начертание
-MAGICFUNGUAR | taintedmagic | Магический Фунгуар
-THAUMIUMKATANA | taintedmagic | Боевой таум-клинок
-ROD_warpwood_staff | taintedmagic | Ядро посоха из искаженной древесины
-FOCUSSHARD | taintedmagic | Набалдашник: Кристалл Вис
-TAINTEDMAGIC | taintedmagic | Тревожная находка
-VOIDMETALKATANA | taintedmagic | Пустотный боевой клинок
-SHADOWMETALKATANA | taintedmagic | Теневой боевой клинок
-TMELDRITCHMAJOR | taintedmagic | Откровение древности
-TMARMORFORTRESS | taintedmagic | Боевой таум-доспех
-CAP_shadowcloth | taintedmagic | Тенетканевый наконечник
-CREATION | taintedmagic | Созидание
-SHADOWFORTRESSARMOR | taintedmagic | Теневая боевая броня
-ROD_warpwood | taintedmagic | Стержень из искаженного дерева
-FLYTECHARM | taintedmagic | Шарм полета
-FOCUSTIME | taintedmagic | Набалдашник: Время
-CAP_crimsoncloth | taintedmagic | Наконечник из багряной ткани
-KNIGHTROBES | taintedmagic | Багровая Металлургия
-CAP_shadowmetal | taintedmagic | Теневые наконечники
-TB.INFUSION | thaumicbases | Наполнение
-TB.ROD_silverwood | thaumicbases | Стержень из серебряного дерева
-TB.Relocator | thaumicbases | Таумическая релокация
-TB.AdvAlc | thaumicbases | Улучшенная алхимическая печь
-TB.ThaumicAnvil | thaumicbases | Таумическая наковальня
-TB.FLUXSCRUB | thaumicbases | Полотёр порчи
-TB.Vaporising | thaumicbases | Испарения
-TB.Plax | thaumicbases | Плэкс
-TB.Tobacco.Mining | thaumicbases | Табак шахтера
-TB.NodeFoci.Destr | thaumicbases | Улучшение для манипулятора узла: Разрушение
-TB.NodeLinker | thaumicbases | Связывание узлов
-TB.NODESTABILIZERADV | thaumicbases | Улучшенные узел-стабилизаторы
-TB.SimpleDublication | thaumicbases | Простое удвоение
-TB.Knose | thaumicbases | Роза Мистерия
-CAP_thauminite | thaumicbases | Наконечники из Тауминита
-TB.VoidAnvil | thaumicbases | Пустотная наковальня
-TB.Bracelet.Reed | thaumicbases | Тростниковый браслет
-TB.Tobacco.Wispy | thaumicbases | Тонкий табак
-TB.Bracelet.Greatwood | thaumicbases | Браслеты из великого дерева
-TB.Campfire | thaumicbases | Походный огонь тауматурга
-TB.ROD_blaze | thaumicbases | Огненный стержень
-TB.Thauminite | thaumicbases | Тауминит
-TB.Foci.Drain | thaumicbases | Набалдашник: Осушение жидкости
-TB.DecoBlocks | thaumicbases | Декоративные блоки
-TB.HerobrinesScythe | thaumicbases | Коса Белоглазого
-TB.Revolver.Eldritch | thaumicbases | Улучшение револьвера: Жуткий
-TB.NodeFoci.Bright | thaumicbases | Улучшение для манипулятора узла: Яркость
-TB.Foci.Experience | thaumicbases | Набалдашник: Опыт
-TB.Bracelet.Obsidian | thaumicbases | Обсидиановые браслеты
-TB.NodeMan | thaumicbases | Узел-манипулятор
-TB.ENCHFABRIC | thaumicbases | Зачарованная ткань
-TB.Tobacco.Tainted | thaumicbases | Табак порчи
-TB.Bracelet.Silverwood | thaumicbases | Браслет из серебряного дерева
-TB.Revolver.Power | thaumicbases | Улучшение револьвера: Сила
-TB.Revolver.Efficiency | thaumicbases | Улучшение револьвера: Эффективность
-TB.Revolver.Primal | thaumicbases | Улучшение револьвера: Основной
-TB.Redlon | thaumicbases | Редлон
-TB.ROD_bone | thaumicbases | Костяной стержень
-TB.Revolver.Knowledge | thaumicbases | Улучшение револьвера: Знания
-TB.RainbowCacti | thaumicbases | Радужный кактус
-TB.Revolver.Tainted | thaumicbases | Улучшение револьвера: Порча
-TB.PRIMPEARL | thaumicbases | Сингулярная жемчужина
-TB.Revolver.Speed | thaumicbases | Улучшение револьвера: Скорость
-TB.Spike.Iron | thaumicbases | Железные шипы
-TB.NetherSapling | thaumicbases | Адское дерево
-TB.Revolver.Piercing | thaumicbases | Улучшение револьвера: Пронзание
-TB.Revolver.Silver | thaumicbases | Улучшение револьвера: серебро
-TB.Bracelet.Primal | thaumicbases | Сингулярный браслет
-TB.Bracelet.Ice | thaumicbases | Ледяные браслеты
-TB.VoidSeed | thaumicbases | Семя пустоты
-TB.CryingObs | thaumicbases | Плачущий обсидиан
-ROD_tbthaumium | thaumicbases | Стержень из таум-металла
-TB.INFUSIONENCHANTMENT | thaumicbases | Зачарование наполнением
-TB.CRUCIBLE | thaumicbases | Базовая Алхимия
-TB.ROD_obsidian | thaumicbases | Обсидиановый стержень
-TB.SilverwoodPipe | thaumicbases | Трубка из серебряного дерева
-TB.SM | thaumicbases | Удвоение Salis Mundus
-TB.Ashroom | thaumicbases | Основные грибы
-TB.ROD_primal_staff | thaumicbases | Ядро посоха: Сингулярность
-TB.Quicksilver | thaumicbases | Делаем ртуть
-TB.Revolver | thaumicbases | Арсенал тауматурга
-TB.Revolver.Heavy | thaumicbases | Улучшение револьвера: Тяжелый
-TB.Revolver.Dueling | thaumicbases | Улучшение револьвера: Дуэль
-TB.EntityDecAdv | thaumicbases | Улучшение расщепителя существ
-TB.Revolver.Void | thaumicbases | Улучшение револьвера: Пустотный
-TB.Bracelet.Thaumium | thaumicbases | Браслет из таум-металла
-TB.NodeFoci.Stability | thaumicbases | Улучшение для манипулятора узла: Стабильность
-TB.StrongEntropy | thaumicbases | Энтропийный разбор
-TB.ROD_greatwood | thaumicbases | Стержень из великого древа
-TB.NodeFoci.Unstable | thaumicbases | Улучшение для манипулятора узла: Нестабильность
-TB.DISTILESSENTIA | thaumicbases | Очистка эссенции
-TB.PeacefulSapling | thaumicbases | Мирное древо
-TB.Spike.Void | thaumicbases | Пустотные шипы
-TB.TaintMinor | thaumicbases | Заражённый
-TB.MagicTouch | thaumicbases | Магическое касание
-TB.Flaxium | thaumicbases | Флаксиум
-TB.Lazullia | thaumicbases | Лазуриллия
-TB.ROD_quartz | thaumicbases | Кварцевый стержень
-TB.Bracelet.Void | thaumicbases | Пустотный браслет
-TB.NodeFoci.Hunger | thaumicbases | Улучшение для манипулятора узла: Голод
-TB.AlchemyRestoration | thaumicbases | Алхимическое восстановление
-TB.EldritchBane | thaumicbases | Гибель жутких
-TB.Tobacco | thaumicbases | Магический табак
-TB.Tobacco.Saturating | thaumicbases | Табак насыщения
-TB.Metalleat | thaumicbases | Металлит
-TB.NodeFoci.Taint | thaumicbases | Улучшение для манипулятора узла: Порча
-TB.Revolver.Accuracy | thaumicbases | Улучшение револьвера: Меткость
-TB.Revolver.Atropods | thaumicbases | Улучшение револьвера: Гибель насекомых
-TB.NodeFoci.Purity | thaumicbases | Улучшение для манипулятора узла: Чистота
-TB.Lucrite | thaumicbases | Лукрит
-TB.BasicPlants | thaumicbases | Таумическая природа
-TB.Tainted | thaumicbases | Порча
-TB.LEVITATOR | thaumicbases | Магический подъёмник
-TB.Foci.Flux | thaumicbases | Набалдашник: Полотер порчи
-TB.Overchanter | thaumicbases | Перечарование
-TB.VISPOWER | thaumicbases | Приручение Вис
-TB.AdvancedEntropy | thaumicbases | Улучшенная переработка энтропии
-TB.SMB | thaumicbases | Блок из Salis Mundus
-TB.BELLOWS | thaumicbases | Магические меха
-TB.VOIDMETAL | thaumicbases | Пустотный металл
-TB.MasterEntropy | thaumicbases | Мастерская переработка энтропии!
-TB.Brazier | thaumicbases | Жаровня тауматурга
-TB.Bracelet.Gold | thaumicbases | Золотой браслет
-TB.Tobacco.Eldritch | thaumicbases | Табак древних
-TB.NodeFoci.Efficiency | thaumicbases | Улучшение для манипулятора узла: Эффективность
-TB.CrystalBlocks | thaumicbases | Блоки из кристалльных кластеров
-TB.Bracelet.Blaze | thaumicbases | Огненный браслет
-TB.EntityDec | thaumicbases | Развоплотитель сущностей
-TB.Amber | thaumicbases | Делаем янтарь
-TB.Bracelet.Quartz | thaumicbases | Кварцевые браслеты
-TB.Bracelet.Bone | thaumicbases | Костяной браслет
-TB.Bracelet.Iron | thaumicbases | Таумические браслеты
-TB.ROD_reed | thaumicbases | Тростниковый стержень
-TB.Tobacco.Sanity | thaumicbases | Расслабляющий табак
-TB.EnderSapling | thaumicbases | Дерево Края
-TB.ElderKnowledge | thaumicbases | Мудрость древних
-TB.BloodyRobes | thaumicbases | Кровавая мантия тауматурга
-TB.Enchantments | thaumicbases | Новенькие зачарования!
-TB.Foci.Activation | thaumicbases | Набалдашник: Активация
-TB.Glieonia | thaumicbases | Глиеония
-TB.NodeFoci.Sinister | thaumicbases | Улучшение для манипулятора узла: Зловещий
-TB.CAP_gold | thaumicbases | Золотые наконечники
-TB.Backprocessing | thaumicbases | Превращение обратно
-TB.JARVOID | thaumicbases | Пустотная банка
-TB.Aurelia | thaumicbases | Аурелия
-TB.Tobacco.Angry | thaumicbases | Злой табак
-TB.ROD_ice | thaumicbases | Ледяной стержень
-TB.Pyrofluid | thaumicbases | Пирофлюид
-TB.FOCUSEXCAVATION | thaumicbases | Набалдашник: Копание
-ROD_tbvoid | thaumicbases | Пустотный стержень
-TB.GoldenOak | thaumicbases | Таумическая дендрология
-TB.OreDestruction | thaumicbases | Разбор руды
-TB.Tobacco.Wisdom | thaumicbases | Табак мудрости
-TB.Spike.Thaumic | thaumicbases | Таум-шипы
-TB.THAUMIUM | thaumicbases | Магическая металлургия
-TB.NodeFoci.Speed | thaumicbases | Улучшение для манипулятора узла: Скорость
-TB.Briar | thaumicbases | Шиповник
-TB.MIRRORHAND | thaumicbases | Магическое зеркало (Ручное)
-TB.Revolver.EldritchBane | thaumicbases | Улучшение револьвера: Гибель жутких
-thaumicenergistics.TEESSVIBCMBR | thaumicenergistics | Вибрационная камера
-thaumicenergistics.Pseudo.COREUSE | thaumicenergistics | Сердце голема: Использование
-thaumicenergistics.TECERTUSDUPE | thaumicenergistics | Удвоение кварца
-thaumicenergistics.TEARCANETERM | thaumicenergistics | Магический терминал создания
-thaumicenergistics.Pseudo.DISTILESSENTIA | thaumicenergistics | Очистка эссенции
-thaumicenergistics.Pseudo.VISPOWER | thaumicenergistics | Приручение Вис
-thaumicenergistics.TEARCANEASSEMBLER | thaumicenergistics | Магический сборщик
-thaumicenergistics.TEINFPROV | thaumicenergistics | Поставщик наполнения
-thaumicenergistics.TEFOCUSWRENCH | thaumicenergistics | Набалдашник: AE-ключ
-thaumicenergistics.TEIO | thaumicenergistics | Транспортировка цифросенции
-thaumicenergistics.TECORES | thaumicenergistics | Цифросенция
+CREATIONSHARD | taintedmagic | РљСЂРёСЃС‚Р°Р»Р» РЎРѕР·РёРґР°РЅРёСЏ
+TMFOCUSFIRE | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРєРё
+VOIDFORTRESS | taintedmagic | РџСѓСЃС‚РѕС‚РЅР°СЏ Р±РѕРµРІР°СЏ Р±СЂРѕРЅСЏ
+MACEFOCUS | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р‘СѓР»Р°РІР° РњР°РіР°
+ELDRITCHFOCUS | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРє: РўС‘РјРЅР°СЏ РњР°С‚РµСЂРёСЏ
+CAP_cloth | taintedmagic | РўРєР°РЅРµРІС‹Р№ РЅР°РєРѕРЅРµС‡РЅРёРє
+SHADOWCLOTH | taintedmagic | РўРµРЅРµРІР°СЏ РўРєР°РЅСЊ
+VOIDWALKERBOOTS | taintedmagic | Р‘РѕС‚РёРЅРєРё РїСѓСЃС‚РѕС‚РЅРѕРіРѕ СЃС‚СЂР°РЅРЅРёРєР°
+FOCUSWEATHER | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРє: РџРѕРіРѕРґР°
+THAUMICDISASSEMBLER | taintedmagic | РўР°СѓРјРёС‡РµСЃРєРёР№ Р”РёР·Р°СЃСЃР°РјР±Р»РµСЂ
+INSCRIPTIONTAINT | taintedmagic | Р—Р°СЂР°Р¶С‘РЅРЅРѕРµ РЅР°С‡РµСЂС‚Р°РЅРёРµ
+WARPTREE | taintedmagic | РСЃРєР°Р¶РµРЅРЅРѕРµ РґРµСЂРµРІРѕ
+BLOODLUSTUPGRADE | taintedmagic | РЈР»СѓС‡С€РµРЅРёРµ 5 СѓСЂРѕРІРЅСЏ: Р–Р°Р¶РґР° РєСЂРѕРІРё
+INSCRIPTIONFIRE | taintedmagic | Р’СѓР»РєР°РЅРёС‡РµСЃРєРѕРµ РЅР°С‡РµСЂС‚Р°РЅРёРµ
+SHADOWMETAL | taintedmagic | РўРµРЅРµРІРѕР№ РјРµС‚Р°Р»Р»
+VOIDGOGGLES | taintedmagic | РџСѓСЃС‚РѕС‚РЅС‹Рµ РѕС‡РєРё РѕС‚РєСЂРѕРІРµРЅРёСЏ
+CRYSTALDAGGER | taintedmagic | РљСЂРёСЃС‚Р°Р»Р»РёС‡РµСЃРєР°СЏ РљСЂРѕРІСЊ
+FOCUSLUMOS | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРє: РЎРІРµС‚
+TAINTFOCUS | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р—Р°СЂР°Р¶РµРЅРЅС‹Р№ С€С‚РѕСЂРј
+PRAETORARMOR | taintedmagic | Р‘СЂРѕРЅСЏ РџСЂРµС‚РѕСЂР°
+VOIDSENTBLOOD | taintedmagic | РџСѓСЃС‚РѕС‚РЅР°СЏ РєСЂРѕРІСЊ
+VOIDSASH | taintedmagic | РџРѕСЏСЃ РўРµРЅРµРІРѕР№ РџРѕСЃС‚СѓРїРё
+WARPEDGOGGLES | taintedmagic | РСЃРєР°Р¶РµРЅРЅС‹Рµ РѕС‡РєРё РѕС‚РєСЂРѕРІРµРЅРёСЏ
+PRIMALBLADE | taintedmagic | РљСЂР°Р№ СЃРёРЅРіСѓР»СЏСЂРЅРѕСЃС‚Рё
+CRIMSONROBES | taintedmagic | РљСЂРѕРІР°РІР°СЏ С‚РєР°РЅСЊ
+EVILSHARDS | taintedmagic | РќРµСЃР±Р°Р»Р°РЅСЃРёСЂРѕРІР°РЅРЅС‹Рµ РєСЂРёСЃС‚Р°Р»Р»С‹
+FOCUSTAINTEDBLAST | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р—Р°СЂР°Р¶РµРЅРЅР°СЏ РІРѕР»РЅР°
+CRIMSONBLADE | taintedmagic | Р‘Р°РіСЂРѕРІС‹Р№ РљР»РёРЅРѕРє
+INSCRIPTIONUNDEAD | taintedmagic | Р‘РµСЃСЃРјРµСЂС‚РЅРѕРµ РЅР°С‡РµСЂС‚Р°РЅРёРµ
+MAGICFUNGUAR | taintedmagic | РњР°РіРёС‡РµСЃРєРёР№ Р¤СѓРЅРіСѓР°СЂ
+THAUMIUMKATANA | taintedmagic | Р‘РѕРµРІРѕР№ С‚Р°СѓРј-РєР»РёРЅРѕРє
+ROD_warpwood_staff | taintedmagic | РЇРґСЂРѕ РїРѕСЃРѕС…Р° РёР· РёСЃРєР°Р¶РµРЅРЅРѕР№ РґСЂРµРІРµСЃРёРЅС‹
+FOCUSSHARD | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРє: РљСЂРёСЃС‚Р°Р»Р» Р’РёСЃ
+TAINTEDMAGIC | taintedmagic | РўСЂРµРІРѕР¶РЅР°СЏ РЅР°С…РѕРґРєР°
+VOIDMETALKATANA | taintedmagic | РџСѓСЃС‚РѕС‚РЅС‹Р№ Р±РѕРµРІРѕР№ РєР»РёРЅРѕРє
+SHADOWMETALKATANA | taintedmagic | РўРµРЅРµРІРѕР№ Р±РѕРµРІРѕР№ РєР»РёРЅРѕРє
+TMELDRITCHMAJOR | taintedmagic | РћС‚РєСЂРѕРІРµРЅРёРµ РґСЂРµРІРЅРѕСЃС‚Рё
+TMARMORFORTRESS | taintedmagic | Р‘РѕРµРІРѕР№ С‚Р°СѓРј-РґРѕСЃРїРµС…
+CAP_shadowcloth | taintedmagic | РўРµРЅРµС‚РєР°РЅРµРІС‹Р№ РЅР°РєРѕРЅРµС‡РЅРёРє
+CREATION | taintedmagic | РЎРѕР·РёРґР°РЅРёРµ
+SHADOWFORTRESSARMOR | taintedmagic | РўРµРЅРµРІР°СЏ Р±РѕРµРІР°СЏ Р±СЂРѕРЅСЏ
+ROD_warpwood | taintedmagic | РЎС‚РµСЂР¶РµРЅСЊ РёР· РёСЃРєР°Р¶РµРЅРЅРѕРіРѕ РґРµСЂРµРІР°
+FLYTECHARM | taintedmagic | РЁР°СЂРј РїРѕР»РµС‚Р°
+FOCUSTIME | taintedmagic | РќР°Р±Р°Р»РґР°С€РЅРёРє: Р’СЂРµРјСЏ
+CAP_crimsoncloth | taintedmagic | РќР°РєРѕРЅРµС‡РЅРёРє РёР· Р±Р°РіСЂСЏРЅРѕР№ С‚РєР°РЅРё
+KNIGHTROBES | taintedmagic | Р‘Р°РіСЂРѕРІР°СЏ РњРµС‚Р°Р»Р»СѓСЂРіРёСЏ
+CAP_shadowmetal | taintedmagic | РўРµРЅРµРІС‹Рµ РЅР°РєРѕРЅРµС‡РЅРёРєРё
+TB.INFUSION | thaumicbases | РќР°РїРѕР»РЅРµРЅРёРµ
+TB.ROD_silverwood | thaumicbases | РЎС‚РµСЂР¶РµРЅСЊ РёР· СЃРµСЂРµР±СЂСЏРЅРѕРіРѕ РґРµСЂРµРІР°
+TB.Relocator | thaumicbases | РўР°СѓРјРёС‡РµСЃРєР°СЏ СЂРµР»РѕРєР°С†РёСЏ
+TB.AdvAlc | thaumicbases | РЈР»СѓС‡С€РµРЅРЅР°СЏ Р°Р»С…РёРјРёС‡РµСЃРєР°СЏ РїРµС‡СЊ
+TB.ThaumicAnvil | thaumicbases | РўР°СѓРјРёС‡РµСЃРєР°СЏ РЅР°РєРѕРІР°Р»СЊРЅСЏ
+TB.FLUXSCRUB | thaumicbases | РџРѕР»РѕС‚С‘СЂ РїРѕСЂС‡Рё
+TB.Vaporising | thaumicbases | РСЃРїР°СЂРµРЅРёСЏ
+TB.Plax | thaumicbases | РџР»СЌРєСЃ
+TB.Tobacco.Mining | thaumicbases | РўР°Р±Р°Рє С€Р°С…С‚РµСЂР°
+TB.NodeFoci.Destr | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: Р Р°Р·СЂСѓС€РµРЅРёРµ
+TB.NodeLinker | thaumicbases | РЎРІСЏР·С‹РІР°РЅРёРµ СѓР·Р»РѕРІ
+TB.NODESTABILIZERADV | thaumicbases | РЈР»СѓС‡С€РµРЅРЅС‹Рµ СѓР·РµР»-СЃС‚Р°Р±РёР»РёР·Р°С‚РѕСЂС‹
+TB.SimpleDublication | thaumicbases | РџСЂРѕСЃС‚РѕРµ СѓРґРІРѕРµРЅРёРµ
+TB.Knose | thaumicbases | Р РѕР·Р° РњРёСЃС‚РµСЂРёСЏ
+CAP_thauminite | thaumicbases | РќР°РєРѕРЅРµС‡РЅРёРєРё РёР· РўР°СѓРјРёРЅРёС‚Р°
+TB.VoidAnvil | thaumicbases | РџСѓСЃС‚РѕС‚РЅР°СЏ РЅР°РєРѕРІР°Р»СЊРЅСЏ
+TB.Bracelet.Reed | thaumicbases | РўСЂРѕСЃС‚РЅРёРєРѕРІС‹Р№ Р±СЂР°СЃР»РµС‚
+TB.Tobacco.Wispy | thaumicbases | РўРѕРЅРєРёР№ С‚Р°Р±Р°Рє
+TB.Bracelet.Greatwood | thaumicbases | Р‘СЂР°СЃР»РµС‚С‹ РёР· РІРµР»РёРєРѕРіРѕ РґРµСЂРµРІР°
+TB.Campfire | thaumicbases | РџРѕС…РѕРґРЅС‹Р№ РѕРіРѕРЅСЊ С‚Р°СѓРјР°С‚СѓСЂРіР°
+TB.ROD_blaze | thaumicbases | РћРіРЅРµРЅРЅС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+TB.Thauminite | thaumicbases | РўР°СѓРјРёРЅРёС‚
+TB.Foci.Drain | thaumicbases | РќР°Р±Р°Р»РґР°С€РЅРёРє: РћСЃСѓС€РµРЅРёРµ Р¶РёРґРєРѕСЃС‚Рё
+TB.DecoBlocks | thaumicbases | Р”РµРєРѕСЂР°С‚РёРІРЅС‹Рµ Р±Р»РѕРєРё
+TB.HerobrinesScythe | thaumicbases | РљРѕСЃР° Р‘РµР»РѕРіР»Р°Р·РѕРіРѕ
+TB.Revolver.Eldritch | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: Р–СѓС‚РєРёР№
+TB.NodeFoci.Bright | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: РЇСЂРєРѕСЃС‚СЊ
+TB.Foci.Experience | thaumicbases | РќР°Р±Р°Р»РґР°С€РЅРёРє: РћРїС‹С‚
+TB.Bracelet.Obsidian | thaumicbases | РћР±СЃРёРґРёР°РЅРѕРІС‹Рµ Р±СЂР°СЃР»РµС‚С‹
+TB.NodeMan | thaumicbases | РЈР·РµР»-РјР°РЅРёРїСѓР»СЏС‚РѕСЂ
+TB.ENCHFABRIC | thaumicbases | Р—Р°С‡Р°СЂРѕРІР°РЅРЅР°СЏ С‚РєР°РЅСЊ
+TB.Tobacco.Tainted | thaumicbases | РўР°Р±Р°Рє РїРѕСЂС‡Рё
+TB.Bracelet.Silverwood | thaumicbases | Р‘СЂР°СЃР»РµС‚ РёР· СЃРµСЂРµР±СЂСЏРЅРѕРіРѕ РґРµСЂРµРІР°
+TB.Revolver.Power | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: РЎРёР»Р°
+TB.Revolver.Efficiency | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: Р­С„С„РµРєС‚РёРІРЅРѕСЃС‚СЊ
+TB.Revolver.Primal | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: РћСЃРЅРѕРІРЅРѕР№
+TB.Redlon | thaumicbases | Р РµРґР»РѕРЅ
+TB.ROD_bone | thaumicbases | РљРѕСЃС‚СЏРЅРѕР№ СЃС‚РµСЂР¶РµРЅСЊ
+TB.Revolver.Knowledge | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: Р—РЅР°РЅРёСЏ
+TB.RainbowCacti | thaumicbases | Р Р°РґСѓР¶РЅС‹Р№ РєР°РєС‚СѓСЃ
+TB.Revolver.Tainted | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: РџРѕСЂС‡Р°
+TB.PRIMPEARL | thaumicbases | РЎРёРЅРіСѓР»СЏСЂРЅР°СЏ Р¶РµРјС‡СѓР¶РёРЅР°
+TB.Revolver.Speed | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: РЎРєРѕСЂРѕСЃС‚СЊ
+TB.Spike.Iron | thaumicbases | Р–РµР»РµР·РЅС‹Рµ С€РёРїС‹
+TB.NetherSapling | thaumicbases | РђРґСЃРєРѕРµ РґРµСЂРµРІРѕ
+TB.Revolver.Piercing | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: РџСЂРѕРЅР·Р°РЅРёРµ
+TB.Revolver.Silver | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: СЃРµСЂРµР±СЂРѕ
+TB.Bracelet.Primal | thaumicbases | РЎРёРЅРіСѓР»СЏСЂРЅС‹Р№ Р±СЂР°СЃР»РµС‚
+TB.Bracelet.Ice | thaumicbases | Р›РµРґСЏРЅС‹Рµ Р±СЂР°СЃР»РµС‚С‹
+TB.VoidSeed | thaumicbases | РЎРµРјСЏ РїСѓСЃС‚РѕС‚С‹
+TB.CryingObs | thaumicbases | РџР»Р°С‡СѓС‰РёР№ РѕР±СЃРёРґРёР°РЅ
+ROD_tbthaumium | thaumicbases | РЎС‚РµСЂР¶РµРЅСЊ РёР· С‚Р°СѓРј-РјРµС‚Р°Р»Р»Р°
+TB.INFUSIONENCHANTMENT | thaumicbases | Р—Р°С‡Р°СЂРѕРІР°РЅРёРµ РЅР°РїРѕР»РЅРµРЅРёРµРј
+TB.CRUCIBLE | thaumicbases | Р‘Р°Р·РѕРІР°СЏ РђР»С…РёРјРёСЏ
+TB.ROD_obsidian | thaumicbases | РћР±СЃРёРґРёР°РЅРѕРІС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+TB.SilverwoodPipe | thaumicbases | РўСЂСѓР±РєР° РёР· СЃРµСЂРµР±СЂСЏРЅРѕРіРѕ РґРµСЂРµРІР°
+TB.SM | thaumicbases | РЈРґРІРѕРµРЅРёРµ Salis Mundus
+TB.Ashroom | thaumicbases | РћСЃРЅРѕРІРЅС‹Рµ РіСЂРёР±С‹
+TB.ROD_primal_staff | thaumicbases | РЇРґСЂРѕ РїРѕСЃРѕС…Р°: РЎРёРЅРіСѓР»СЏСЂРЅРѕСЃС‚СЊ
+TB.Quicksilver | thaumicbases | Р”РµР»Р°РµРј СЂС‚СѓС‚СЊ
+TB.Revolver | thaumicbases | РђСЂСЃРµРЅР°Р» С‚Р°СѓРјР°С‚СѓСЂРіР°
+TB.Revolver.Heavy | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: РўСЏР¶РµР»С‹Р№
+TB.Revolver.Dueling | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: Р”СѓСЌР»СЊ
+TB.EntityDecAdv | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂР°СЃС‰РµРїРёС‚РµР»СЏ СЃСѓС‰РµСЃС‚РІ
+TB.Revolver.Void | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: РџСѓСЃС‚РѕС‚РЅС‹Р№
+TB.Bracelet.Thaumium | thaumicbases | Р‘СЂР°СЃР»РµС‚ РёР· С‚Р°СѓРј-РјРµС‚Р°Р»Р»Р°
+TB.NodeFoci.Stability | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: РЎС‚Р°Р±РёР»СЊРЅРѕСЃС‚СЊ
+TB.StrongEntropy | thaumicbases | Р­РЅС‚СЂРѕРїРёР№РЅС‹Р№ СЂР°Р·Р±РѕСЂ
+TB.ROD_greatwood | thaumicbases | РЎС‚РµСЂР¶РµРЅСЊ РёР· РІРµР»РёРєРѕРіРѕ РґСЂРµРІР°
+TB.NodeFoci.Unstable | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: РќРµСЃС‚Р°Р±РёР»СЊРЅРѕСЃС‚СЊ
+TB.DISTILESSENTIA | thaumicbases | РћС‡РёСЃС‚РєР° СЌСЃСЃРµРЅС†РёРё
+TB.PeacefulSapling | thaumicbases | РњРёСЂРЅРѕРµ РґСЂРµРІРѕ
+TB.Spike.Void | thaumicbases | РџСѓСЃС‚РѕС‚РЅС‹Рµ С€РёРїС‹
+TB.TaintMinor | thaumicbases | Р—Р°СЂР°Р¶С‘РЅРЅС‹Р№
+TB.MagicTouch | thaumicbases | РњР°РіРёС‡РµСЃРєРѕРµ РєР°СЃР°РЅРёРµ
+TB.Flaxium | thaumicbases | Р¤Р»Р°РєСЃРёСѓРј
+TB.Lazullia | thaumicbases | Р›Р°Р·СѓСЂРёР»Р»РёСЏ
+TB.ROD_quartz | thaumicbases | РљРІР°СЂС†РµРІС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+TB.Bracelet.Void | thaumicbases | РџСѓСЃС‚РѕС‚РЅС‹Р№ Р±СЂР°СЃР»РµС‚
+TB.NodeFoci.Hunger | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: Р“РѕР»РѕРґ
+TB.AlchemyRestoration | thaumicbases | РђР»С…РёРјРёС‡РµСЃРєРѕРµ РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёРµ
+TB.EldritchBane | thaumicbases | Р“РёР±РµР»СЊ Р¶СѓС‚РєРёС…
+TB.Tobacco | thaumicbases | РњР°РіРёС‡РµСЃРєРёР№ С‚Р°Р±Р°Рє
+TB.Tobacco.Saturating | thaumicbases | РўР°Р±Р°Рє РЅР°СЃС‹С‰РµРЅРёСЏ
+TB.Metalleat | thaumicbases | РњРµС‚Р°Р»Р»РёС‚
+TB.NodeFoci.Taint | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: РџРѕСЂС‡Р°
+TB.Revolver.Accuracy | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: РњРµС‚РєРѕСЃС‚СЊ
+TB.Revolver.Atropods | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: Р“РёР±РµР»СЊ РЅР°СЃРµРєРѕРјС‹С…
+TB.NodeFoci.Purity | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: Р§РёСЃС‚РѕС‚Р°
+TB.Lucrite | thaumicbases | Р›СѓРєСЂРёС‚
+TB.BasicPlants | thaumicbases | РўР°СѓРјРёС‡РµСЃРєР°СЏ РїСЂРёСЂРѕРґР°
+TB.Tainted | thaumicbases | РџРѕСЂС‡Р°
+TB.LEVITATOR | thaumicbases | РњР°РіРёС‡РµСЃРєРёР№ РїРѕРґСЉС‘РјРЅРёРє
+TB.Foci.Flux | thaumicbases | РќР°Р±Р°Р»РґР°С€РЅРёРє: РџРѕР»РѕС‚РµСЂ РїРѕСЂС‡Рё
+TB.Overchanter | thaumicbases | РџРµСЂРµС‡Р°СЂРѕРІР°РЅРёРµ
+TB.VISPOWER | thaumicbases | РџСЂРёСЂСѓС‡РµРЅРёРµ Р’РёСЃ
+TB.AdvancedEntropy | thaumicbases | РЈР»СѓС‡С€РµРЅРЅР°СЏ РїРµСЂРµСЂР°Р±РѕС‚РєР° СЌРЅС‚СЂРѕРїРёРё
+TB.SMB | thaumicbases | Р‘Р»РѕРє РёР· Salis Mundus
+TB.BELLOWS | thaumicbases | РњР°РіРёС‡РµСЃРєРёРµ РјРµС…Р°
+TB.VOIDMETAL | thaumicbases | РџСѓСЃС‚РѕС‚РЅС‹Р№ РјРµС‚Р°Р»Р»
+TB.MasterEntropy | thaumicbases | РњР°СЃС‚РµСЂСЃРєР°СЏ РїРµСЂРµСЂР°Р±РѕС‚РєР° СЌРЅС‚СЂРѕРїРёРё!
+TB.Brazier | thaumicbases | Р–Р°СЂРѕРІРЅСЏ С‚Р°СѓРјР°С‚СѓСЂРіР°
+TB.Bracelet.Gold | thaumicbases | Р—РѕР»РѕС‚РѕР№ Р±СЂР°СЃР»РµС‚
+TB.Tobacco.Eldritch | thaumicbases | РўР°Р±Р°Рє РґСЂРµРІРЅРёС…
+TB.NodeFoci.Efficiency | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: Р­С„С„РµРєС‚РёРІРЅРѕСЃС‚СЊ
+TB.CrystalBlocks | thaumicbases | Р‘Р»РѕРєРё РёР· РєСЂРёСЃС‚Р°Р»Р»СЊРЅС‹С… РєР»Р°СЃС‚РµСЂРѕРІ
+TB.Bracelet.Blaze | thaumicbases | РћРіРЅРµРЅРЅС‹Р№ Р±СЂР°СЃР»РµС‚
+TB.EntityDec | thaumicbases | Р Р°Р·РІРѕРїР»РѕС‚РёС‚РµР»СЊ СЃСѓС‰РЅРѕСЃС‚РµР№
+TB.Amber | thaumicbases | Р”РµР»Р°РµРј СЏРЅС‚Р°СЂСЊ
+TB.Bracelet.Quartz | thaumicbases | РљРІР°СЂС†РµРІС‹Рµ Р±СЂР°СЃР»РµС‚С‹
+TB.Bracelet.Bone | thaumicbases | РљРѕСЃС‚СЏРЅРѕР№ Р±СЂР°СЃР»РµС‚
+TB.Bracelet.Iron | thaumicbases | РўР°СѓРјРёС‡РµСЃРєРёРµ Р±СЂР°СЃР»РµС‚С‹
+TB.ROD_reed | thaumicbases | РўСЂРѕСЃС‚РЅРёРєРѕРІС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+TB.Tobacco.Sanity | thaumicbases | Р Р°СЃСЃР»Р°Р±Р»СЏСЋС‰РёР№ С‚Р°Р±Р°Рє
+TB.EnderSapling | thaumicbases | Р”РµСЂРµРІРѕ РљСЂР°СЏ
+TB.ElderKnowledge | thaumicbases | РњСѓРґСЂРѕСЃС‚СЊ РґСЂРµРІРЅРёС…
+TB.BloodyRobes | thaumicbases | РљСЂРѕРІР°РІР°СЏ РјР°РЅС‚РёСЏ С‚Р°СѓРјР°С‚СѓСЂРіР°
+TB.Enchantments | thaumicbases | РќРѕРІРµРЅСЊРєРёРµ Р·Р°С‡Р°СЂРѕРІР°РЅРёСЏ!
+TB.Foci.Activation | thaumicbases | РќР°Р±Р°Р»РґР°С€РЅРёРє: РђРєС‚РёРІР°С†РёСЏ
+TB.Glieonia | thaumicbases | Р“Р»РёРµРѕРЅРёСЏ
+TB.NodeFoci.Sinister | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: Р—Р»РѕРІРµС‰РёР№
+TB.CAP_gold | thaumicbases | Р—РѕР»РѕС‚С‹Рµ РЅР°РєРѕРЅРµС‡РЅРёРєРё
+TB.Backprocessing | thaumicbases | РџСЂРµРІСЂР°С‰РµРЅРёРµ РѕР±СЂР°С‚РЅРѕ
+TB.JARVOID | thaumicbases | РџСѓСЃС‚РѕС‚РЅР°СЏ Р±Р°РЅРєР°
+TB.Aurelia | thaumicbases | РђСѓСЂРµР»РёСЏ
+TB.Tobacco.Angry | thaumicbases | Р—Р»РѕР№ С‚Р°Р±Р°Рє
+TB.ROD_ice | thaumicbases | Р›РµРґСЏРЅРѕР№ СЃС‚РµСЂР¶РµРЅСЊ
+TB.Pyrofluid | thaumicbases | РџРёСЂРѕС„Р»СЋРёРґ
+TB.FOCUSEXCAVATION | thaumicbases | РќР°Р±Р°Р»РґР°С€РЅРёРє: РљРѕРїР°РЅРёРµ
+ROD_tbvoid | thaumicbases | РџСѓСЃС‚РѕС‚РЅС‹Р№ СЃС‚РµСЂР¶РµРЅСЊ
+TB.GoldenOak | thaumicbases | РўР°СѓРјРёС‡РµСЃРєР°СЏ РґРµРЅРґСЂРѕР»РѕРіРёСЏ
+TB.OreDestruction | thaumicbases | Р Р°Р·Р±РѕСЂ СЂСѓРґС‹
+TB.Tobacco.Wisdom | thaumicbases | РўР°Р±Р°Рє РјСѓРґСЂРѕСЃС‚Рё
+TB.Spike.Thaumic | thaumicbases | РўР°СѓРј-С€РёРїС‹
+TB.THAUMIUM | thaumicbases | РњР°РіРёС‡РµСЃРєР°СЏ РјРµС‚Р°Р»Р»СѓСЂРіРёСЏ
+TB.NodeFoci.Speed | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ РґР»СЏ РјР°РЅРёРїСѓР»СЏС‚РѕСЂР° СѓР·Р»Р°: РЎРєРѕСЂРѕСЃС‚СЊ
+TB.Briar | thaumicbases | РЁРёРїРѕРІРЅРёРє
+TB.MIRRORHAND | thaumicbases | РњР°РіРёС‡РµСЃРєРѕРµ Р·РµСЂРєР°Р»Рѕ (Р СѓС‡РЅРѕРµ)
+TB.Revolver.EldritchBane | thaumicbases | РЈР»СѓС‡С€РµРЅРёРµ СЂРµРІРѕР»СЊРІРµСЂР°: Р“РёР±РµР»СЊ Р¶СѓС‚РєРёС…
+thaumicenergistics.TEESSVIBCMBR | thaumicenergistics | Р’РёР±СЂР°С†РёРѕРЅРЅР°СЏ РєР°РјРµСЂР°
+thaumicenergistics.Pseudo.COREUSE | thaumicenergistics | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ
+thaumicenergistics.TECERTUSDUPE | thaumicenergistics | РЈРґРІРѕРµРЅРёРµ РєРІР°СЂС†Р°
+thaumicenergistics.TEARCANETERM | thaumicenergistics | РњР°РіРёС‡РµСЃРєРёР№ С‚РµСЂРјРёРЅР°Р» СЃРѕР·РґР°РЅРёСЏ
+thaumicenergistics.Pseudo.DISTILESSENTIA | thaumicenergistics | РћС‡РёСЃС‚РєР° СЌСЃСЃРµРЅС†РёРё
+thaumicenergistics.Pseudo.VISPOWER | thaumicenergistics | РџСЂРёСЂСѓС‡РµРЅРёРµ Р’РёСЃ
+thaumicenergistics.TEARCANEASSEMBLER | thaumicenergistics | РњР°РіРёС‡РµСЃРєРёР№ СЃР±РѕСЂС‰РёРє
+thaumicenergistics.TEINFPROV | thaumicenergistics | РџРѕСЃС‚Р°РІС‰РёРє РЅР°РїРѕР»РЅРµРЅРёСЏ
+thaumicenergistics.TEFOCUSWRENCH | thaumicenergistics | РќР°Р±Р°Р»РґР°С€РЅРёРє: AE-РєР»СЋС‡
+thaumicenergistics.TEIO | thaumicenergistics | РўСЂР°РЅСЃРїРѕСЂС‚РёСЂРѕРІРєР° С†РёС„СЂРѕСЃРµРЅС†РёРё
+thaumicenergistics.TECORES | thaumicenergistics | Р¦РёС„СЂРѕСЃРµРЅС†РёСЏ
 thaumicenergistics.TERESEARCH | thaumicenergistics | Thaumic Energistics
-thaumicenergistics.Pseudo.COREGATHER | thaumicenergistics | Сердце голема: Сбор
-thaumicenergistics.Pseudo.TUBEFILTER | thaumicenergistics | Улучшенные трубы
-thaumicenergistics.TETHAUMGBOX | thaumicenergistics | Таумическая коробка передач
-thaumicenergistics.TEVISINT | thaumicenergistics | Интерфейс Вис-реле
-thaumicenergistics.Pseudo.INFUSION | thaumicenergistics | Наполнение предметов магией
-thaumicenergistics.TESTORAGE | thaumicenergistics | Хранилище цифросенции
-thaumicenergistics.TEKNOWLEDGEINSCRIBER | thaumicenergistics | Высечение знаний
-thaumicenergistics.TEGOLEMWIFIBACKPACK | thaumicenergistics | Безпроводной рюкзак голема
-thaumicenergistics.Pseudo.ALCHEMICALDUPLICATION | thaumicenergistics | Алхимия удвоения
-thaumicenergistics.TEIRONGEARBOX | thaumicenergistics | Железная коробка передач
-thaumicenergistics.Pseudo.MIRROR | thaumicenergistics | Зеркальная магия
-thaumicenergistics.TEDISTILLATIONPATTERNENCODER | thaumicenergistics | Кодер образца дистилляции
-thaumicenergistics.TEESSTERM | thaumicenergistics | Мониторинг эссенции
-thaumicenergistics.TEESSPROV | thaumicenergistics | Поставщик эссенции
-thaumicenergistics.Pseudo.WARDEDARCANA | thaumicenergistics | Магия защиты
-thaumicenergistics.Pseudo.FOCUSFIRE | thaumicenergistics | Набалдашники
-thaumicenergistics.Pseudo.SCEPTRE | thaumicenergistics | Скипетры
+thaumicenergistics.Pseudo.COREGATHER | thaumicenergistics | РЎРµСЂРґС†Рµ РіРѕР»РµРјР°: РЎР±РѕСЂ
+thaumicenergistics.Pseudo.TUBEFILTER | thaumicenergistics | РЈР»СѓС‡С€РµРЅРЅС‹Рµ С‚СЂСѓР±С‹
+thaumicenergistics.TETHAUMGBOX | thaumicenergistics | РўР°СѓРјРёС‡РµСЃРєР°СЏ РєРѕСЂРѕР±РєР° РїРµСЂРµРґР°С‡
+thaumicenergistics.TEVISINT | thaumicenergistics | РРЅС‚РµСЂС„РµР№СЃ Р’РёСЃ-СЂРµР»Рµ
+thaumicenergistics.Pseudo.INFUSION | thaumicenergistics | РќР°РїРѕР»РЅРµРЅРёРµ РїСЂРµРґРјРµС‚РѕРІ РјР°РіРёРµР№
+thaumicenergistics.TESTORAGE | thaumicenergistics | РҐСЂР°РЅРёР»РёС‰Рµ С†РёС„СЂРѕСЃРµРЅС†РёРё
+thaumicenergistics.TEKNOWLEDGEINSCRIBER | thaumicenergistics | Р’С‹СЃРµС‡РµРЅРёРµ Р·РЅР°РЅРёР№
+thaumicenergistics.TEGOLEMWIFIBACKPACK | thaumicenergistics | Р‘РµР·РїСЂРѕРІРѕРґРЅРѕР№ СЂСЋРєР·Р°Рє РіРѕР»РµРјР°
+thaumicenergistics.Pseudo.ALCHEMICALDUPLICATION | thaumicenergistics | РђР»С…РёРјРёСЏ СѓРґРІРѕРµРЅРёСЏ
+thaumicenergistics.TEIRONGEARBOX | thaumicenergistics | Р–РµР»РµР·РЅР°СЏ РєРѕСЂРѕР±РєР° РїРµСЂРµРґР°С‡
+thaumicenergistics.Pseudo.MIRROR | thaumicenergistics | Р—РµСЂРєР°Р»СЊРЅР°СЏ РјР°РіРёСЏ
+thaumicenergistics.TEDISTILLATIONPATTERNENCODER | thaumicenergistics | РљРѕРґРµСЂ РѕР±СЂР°Р·С†Р° РґРёСЃС‚РёР»Р»СЏС†РёРё
+thaumicenergistics.TEESSTERM | thaumicenergistics | РњРѕРЅРёС‚РѕСЂРёРЅРі СЌСЃСЃРµРЅС†РёРё
+thaumicenergistics.TEESSPROV | thaumicenergistics | РџРѕСЃС‚Р°РІС‰РёРє СЌСЃСЃРµРЅС†РёРё
+thaumicenergistics.Pseudo.WARDEDARCANA | thaumicenergistics | РњР°РіРёСЏ Р·Р°С‰РёС‚С‹
+thaumicenergistics.Pseudo.FOCUSFIRE | thaumicenergistics | РќР°Р±Р°Р»РґР°С€РЅРёРєРё
+thaumicenergistics.Pseudo.SCEPTRE | thaumicenergistics | РЎРєРёРїРµС‚СЂС‹
