@@ -201,6 +201,8 @@ PRIMPEARL | thaumcraft | Сингулярная жемчужина
 PRIMNODE | thaumcraft | Сингулярный узел ауры
 CAP_void | thaumcraft | Пустотные наконечники
 VOIDMETAL | thaumcraft | Пустотный металл
+RC_Crowbar | railcraft | Таум-монтировка
+RC_Crowbar_Void | railcraft | Монтировка из пустотного металла
 AEFAKE_VOIDMETAL | arcane_engineering | Пустотный металл
 NODEDESTABILIZER | arcane_engineering | Node Destabilizer
 CHARGER | arcane_engineering | Crystalline Charger
@@ -287,17 +289,17 @@ TTENCH_VALIANCE | ttinkerer | Зачарование: Храбрость
 FIRE_TERRA | ttinkerer | Элементальный огонь: Terra
 TTENCH_SHOCKWAVE | ttinkerer | Зачарование: Ударная волна
 ICHOR_TOOLS | ttinkerer | Ихориевые инструменты
-FOCUS_DEFLECT | ttinkerer | Набалдашник: Искажение
 GASEOUS_SHADOW | ttinkerer | Газ темноты
+FOCUS_DEFLECT | ttinkerer | Набалдашник: Искажение
 TTENCH_FOCUSED | ttinkerer | Зачарование: Направленный удар
 PLATFORM | ttinkerer | Эфирная платформа
 REPAIRER | ttinkerer | Таум-восстановитель
 INTERFACE | ttinkerer | Трансвектор
 SUMMON | ttinkerer | Призыв существ
-ICHOR_AXE_GEM | ttinkerer | Пробуждённый ихориевый топор
 ICHOR_PICK_GEM | ttinkerer | Пробуждённая ихориевая кирка
 FOCUS_RECALL | ttinkerer | Набалдашник: Небесное вмешательство
 FOCUS_FLIGHT | ttinkerer | Набалдашник: Подъём
+ICHOR_AXE_GEM | ttinkerer | Пробуждённый ихориевый топор
 FOCUS_HEAL | ttinkerer | Набалдашник: Лечение
 BLOCK_TALISMAN | ttinkerer | Кольцо черной дыры
 MAGNETS | ttinkerer | Кинетический притяжатель
@@ -313,14 +315,14 @@ TTENCH_POUNCE | ttinkerer | Зачарование: Наскок
 ICHORCLOTH_LEGS_GEM | ttinkerer | Пылающие шаровары
 DISLOCATOR | ttinkerer | Трансвекторный дислокатор
 TTENCH_DESINTEGRATE | ttinkerer | Зачарование: Разрушение
-ICHOR_SWORD_GEM | ttinkerer | Пробуждённый ихориевый меч
 DARK_QUARTZ | ttinkerer | Закоптившийся кварц
+ICHOR_SWORD_GEM | ttinkerer | Пробуждённый ихориевый меч
 FIRE_AER | ttinkerer | Элементальный огонь: Aer
 ICHOR_POUCH | ttinkerer | Бездонная сумка
 ENCHANTER | ttinkerer | Осмотический стол зачарований
 FIRE_PERDITIO | ttinkerer | Элементальный огонь: Perditio
-SHARE_TOME | ttinkerer | Том записи исследований
 ICHORCLOTH_HELM_GEM | ttinkerer | Капюшон адских глубин
+SHARE_TOME | ttinkerer | Том записи исследований
 TTENCH_ASCENT_BOOST | ttinkerer | Зачарование: Прыгучесть
 CAP_ICHOR | ttinkerer | Ихорные наконечники
 TTENCH_DISPERSED | ttinkerer | Зачарование: Удар по площади
@@ -334,8 +336,8 @@ FOCUS_DISLOCATION | ttinkerer | Набалдашник: Перемещение
 FIRE_IGNIS | ttinkerer | Элементальный огонь: Ignis
 TTENCH_TUNNEL | ttinkerer | Зачарование: Туннель
 FIRE_ORDO | ttinkerer | Элементальный огонь: Ordo
-CAT_AMULET | ttinkerer | Кошачий амулет
 GASEOUS_LIGHT | ttinkerer | Светящийся газ
+CAT_AMULET | ttinkerer | Кошачий амулет
 ICHORIUM | ttinkerer | Ихорий
 BLOOD_SWORD | ttinkerer | Проклятое лезвие духа
 ROD_ICHORCLOTH | ttinkerer | Ихорный серебродревесный стержень 
