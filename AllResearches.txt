@@ -1,5 +1,5 @@
-ResearchKey | MODID | Research
-====================================================
+TMI.START | tmintegration | tc.research_name.TMI.START
+ADT.START | ic2 | Вступление
 WARP | thaumcraft | Искажение, Порча и всё остальное
 RESEARCH | thaumcraft | Исследования
 ENCHANT | thaumcraft | Зачарования
@@ -201,6 +201,21 @@ PRIMPEARL | thaumcraft | Сингулярная жемчужина
 PRIMNODE | thaumcraft | Сингулярный узел ауры
 CAP_void | thaumcraft | Пустотные наконечники
 VOIDMETAL | thaumcraft | Пустотный металл
+AEFAKE_VOIDMETAL | arcane_engineering | Пустотный металл
+NODEDESTABILIZER | arcane_engineering | Node Destabilizer
+CHARGER | arcane_engineering | Crystalline Charger
+CAPACITOR | arcane_engineering | Vis Capacitor
+CAP_electrum | arcane_engineering | Electrum Wand Caps
+AEFAKE_BASICTHAUMATURGY | arcane_engineering | Основы создания жезлов
+IMPULSEBOOTS | arcane_engineering | Impulse Boots
+MAGITECH | arcane_engineering | Magical Technology
+CAP_steel | arcane_engineering | Steel Wand Caps
+DRILLVOID | arcane_engineering | Void Drill Head
+AEFAKE_NODESTABILIZER | arcane_engineering | Узел-стабилизаторы
+ROD_upgradeable | arcane_engineering | Treated Wood Wand Core
+ENERGIZER | arcane_engineering | Focus Energizer
+DRILLTHAUMIUM | arcane_engineering | Thaumium Drill Head
+AEFAKE_THAUMIUM | arcane_engineering | Магическая металлургия
 REDCRYSTAL | automagy | Красный Кристалл
 GOLEMLINKER | automagy | Колокольчик Связывания
 NETHERRUNE_WISP | automagy | Рунный Обсидиан: Висп
@@ -272,17 +287,17 @@ TTENCH_VALIANCE | ttinkerer | Зачарование: Храбрость
 FIRE_TERRA | ttinkerer | Элементальный огонь: Terra
 TTENCH_SHOCKWAVE | ttinkerer | Зачарование: Ударная волна
 ICHOR_TOOLS | ttinkerer | Ихориевые инструменты
-GASEOUS_SHADOW | ttinkerer | Газ темноты
 FOCUS_DEFLECT | ttinkerer | Набалдашник: Искажение
+GASEOUS_SHADOW | ttinkerer | Газ темноты
 TTENCH_FOCUSED | ttinkerer | Зачарование: Направленный удар
 PLATFORM | ttinkerer | Эфирная платформа
 REPAIRER | ttinkerer | Таум-восстановитель
 INTERFACE | ttinkerer | Трансвектор
 SUMMON | ttinkerer | Призыв существ
-FOCUS_RECALL | ttinkerer | Набалдашник: Небесное вмешательство
-FOCUS_FLIGHT | ttinkerer | Набалдашник: Подъём
 ICHOR_AXE_GEM | ttinkerer | Пробуждённый ихориевый топор
 ICHOR_PICK_GEM | ttinkerer | Пробуждённая ихориевая кирка
+FOCUS_RECALL | ttinkerer | Набалдашник: Небесное вмешательство
+FOCUS_FLIGHT | ttinkerer | Набалдашник: Подъём
 FOCUS_HEAL | ttinkerer | Набалдашник: Лечение
 BLOCK_TALISMAN | ttinkerer | Кольцо черной дыры
 MAGNETS | ttinkerer | Кинетический притяжатель
@@ -298,12 +313,13 @@ TTENCH_POUNCE | ttinkerer | Зачарование: Наскок
 ICHORCLOTH_LEGS_GEM | ttinkerer | Пылающие шаровары
 DISLOCATOR | ttinkerer | Трансвекторный дислокатор
 TTENCH_DESINTEGRATE | ttinkerer | Зачарование: Разрушение
-DARK_QUARTZ | ttinkerer | Закоптившийся кварц
 ICHOR_SWORD_GEM | ttinkerer | Пробуждённый ихориевый меч
+DARK_QUARTZ | ttinkerer | Закоптившийся кварц
 FIRE_AER | ttinkerer | Элементальный огонь: Aer
 ICHOR_POUCH | ttinkerer | Бездонная сумка
 ENCHANTER | ttinkerer | Осмотический стол зачарований
 FIRE_PERDITIO | ttinkerer | Элементальный огонь: Perditio
+SHARE_TOME | ttinkerer | Том записи исследований
 ICHORCLOTH_HELM_GEM | ttinkerer | Капюшон адских глубин
 TTENCH_ASCENT_BOOST | ttinkerer | Зачарование: Прыгучесть
 CAP_ICHOR | ttinkerer | Ихорные наконечники
@@ -318,11 +334,11 @@ FOCUS_DISLOCATION | ttinkerer | Набалдашник: Перемещение
 FIRE_IGNIS | ttinkerer | Элементальный огонь: Ignis
 TTENCH_TUNNEL | ttinkerer | Зачарование: Туннель
 FIRE_ORDO | ttinkerer | Элементальный огонь: Ordo
-GASEOUS_LIGHT | ttinkerer | Светящийся газ
 CAT_AMULET | ttinkerer | Кошачий амулет
+GASEOUS_LIGHT | ttinkerer | Светящийся газ
 ICHORIUM | ttinkerer | Ихорий
-ROD_ICHORCLOTH | ttinkerer | Ихорный серебродревесный стержень 
 BLOOD_SWORD | ttinkerer | Проклятое лезвие духа
+ROD_ICHORCLOTH | ttinkerer | Ихорный серебродревесный стержень 
 FIRE_AQUA | ttinkerer | Элементальный огонь: Aqua
 TTENCH_FINAL | ttinkerer | Зачарование: Добивающий удар
 FOCUS_XP_DRAIN | ttinkerer | Набалдашник: Высасывание опыта
@@ -497,6 +513,43 @@ FOCUSTIME | taintedmagic | Набалдашник: Время
 CAP_crimsoncloth | taintedmagic | Наконечник из багряной ткани
 KNIGHTROBES | taintedmagic | Багровая Металлургия
 CAP_shadowmetal | taintedmagic | Теневые наконечники
+TD.RUNICBOOTSTRAVELLER | thaumicdyes | Рунические сапоги Путешественника
+TD.DYEDPRAETOR | thaumicdyes | Белая броня Претора 
+TD.RUNICGOGGLES | thaumicdyes | Рунические очки откровения
+TD.ENHANCEDRUNICARMOR | thaumicdyes | Улучшенный рунический доспех
+TD.CRIMSONBANNER | thaumicdyes | Вымпел Багрового культа
+TD.CRIMSONCLERIC | thaumicdyes | Одеяния Культистов
+TD.RUNICARMORUPGRADES | thaumicdyes | Улучшения рунических доспехов
+TD.PRIMALRUNICARMOR | thaumicdyes | Рунический доспех Бездны
+TD.DYEDARCHER | thaumicdyes | Боевое облачение тауматурга
+TD.VOIDROBE | thaumicdyes | Белое пустотное одеяние Тауматурга
+TD.IRONHELMGOGGLES | thaumicdyes | Шлем откровения
+TD.CRIMSON | thaumicdyes | Багровые доспехи
+TD.INHABITEDPLATE | thaumicdyes | Оболочка
+TD.MASKEVIL | thaumicdyes | Маска жестокости
+TD.VOIDFORTRESS | thaumicdyes | Пустотное одеяние
+TD.DYEDRANGER | thaumicdyes | Тауматургические доспехи разведчика
+TD.IRONFORTRESS | thaumicdyes | Железная боевая броня
+TD.THAUMIUMBOOTS | thaumicdyes | Усиленные таум-металлом сапоги Путешественника 
+TD.PRIMALRUNIC | thaumicdyes | Секреты Бездны
+TD.CRIMSONARCHER | thaumicdyes | Броня Багровых лучников
+TD.DYEDFORTRESS | thaumicdyes | Укрепленная боевая таум-броня 
+TD.CRIMSONRANGER | thaumicdyes | Одеяние разведчиков Багрового культа
+TD.PALADIN | thaumicdyes | Багровые паладины
+TD.THAUMIUM | thaumicdyes | Магическая металлургия
+TD.VOIDBOOTS | thaumicdyes | Пустотные сапоги Путешественника
+TD.ARMORFORTRESS | thaumicdyes | Боевой таум-доспех
+TD.DYEDROBE | thaumicdyes | Белое одеяние Тауматурга
+TD.THAUMIUMROBE | thaumicdyes | Укрепленное одеяние Тауматурга
+TD.CRIMSONLEADER | thaumicdyes | Доспехи Претора Культистов
+TD.DYEDKNIGHT | thaumicdyes | Белые доспехи Тауматурга
+TD.RUNICARMOR | thaumicdyes | Рунический доспех
+TD.BOOTSTRAVELLER | thaumicdyes | Сапоги путешественника
+TD.IRONHELMAESTHETICS | thaumicdyes | Эстетические маски
+TD.CRIMSONKNIGHT | thaumicdyes | Доспехи Багрового рыцаря
+TD.OUTERARRIVAL | thaumicdyes | Внешние Земли 
+TD.IRONHELMHUSK | thaumicdyes | Маска Древнего
+TD.SUNNYD | thaumicdyes | Подарок солнца
 TB.INFUSION | thaumicbases | Наполнение
 TB.ROD_silverwood | thaumicbases | Стержень из серебряного дерева
 TB.Relocator | thaumicbases | Таумическая релокация
@@ -636,7 +689,7 @@ TB.NodeFoci.Speed | thaumicbases | Улучшение для манипулят�
 TB.Briar | thaumicbases | Шиповник
 TB.MIRRORHAND | thaumicbases | Магическое зеркало (Ручное)
 TB.Revolver.EldritchBane | thaumicbases | Улучшение револьвера: Гибель жутких
-thaumicenergistics.TEESSVIBCMBR | thaumicenergistics | Вибрационная камера
+thaumicenergistics.TEESSVIBCMBR | thaumicenergistics | Vibration Chamber
 thaumicenergistics.Pseudo.COREUSE | thaumicenergistics | Сердце голема: Использование
 thaumicenergistics.TECERTUSDUPE | thaumicenergistics | Удвоение кварца
 thaumicenergistics.TEARCANETERM | thaumicenergistics | Магический терминал создания
@@ -655,13 +708,194 @@ thaumicenergistics.TEVISINT | thaumicenergistics | Интерфейс Вис-р�
 thaumicenergistics.Pseudo.INFUSION | thaumicenergistics | Наполнение предметов магией
 thaumicenergistics.TESTORAGE | thaumicenergistics | Хранилище цифросенции
 thaumicenergistics.TEKNOWLEDGEINSCRIBER | thaumicenergistics | Высечение знаний
-thaumicenergistics.TEGOLEMWIFIBACKPACK | thaumicenergistics | Безпроводной рюкзак голема
+thaumicenergistics.TEGOLEMWIFIBACKPACK | thaumicenergistics | Golem Wifi Backpack
 thaumicenergistics.Pseudo.ALCHEMICALDUPLICATION | thaumicenergistics | Алхимия удвоения
 thaumicenergistics.TEIRONGEARBOX | thaumicenergistics | Железная коробка передач
 thaumicenergistics.Pseudo.MIRROR | thaumicenergistics | Зеркальная магия
-thaumicenergistics.TEDISTILLATIONPATTERNENCODER | thaumicenergistics | Кодер образца дистилляции
+thaumicenergistics.TEDISTILLATIONPATTERNENCODER | thaumicenergistics | Distillation Pattern Encoder
 thaumicenergistics.TEESSTERM | thaumicenergistics | Мониторинг эссенции
 thaumicenergistics.TEESSPROV | thaumicenergistics | Поставщик эссенции
 thaumicenergistics.Pseudo.WARDEDARCANA | thaumicenergistics | Магия защиты
 thaumicenergistics.Pseudo.FOCUSFIRE | thaumicenergistics | Набалдашники
 thaumicenergistics.Pseudo.SCEPTRE | thaumicenergistics | Скипетры
+DREAMCATCHER | thaumicexploration | Wispy Dreamcatcher
+ROD_NECROMANCER_staff | thaumicexploration | Necromancer's Staff Core
+CAP_MECHANIST | thaumicexploration | Mechanist's Wand Caps
+TXINFUSIONENCHANTMENT | thaumicexploration | Зачаровывание наполнением
+TXBASICARTIFACE | thaumicexploration | Первичное чудотворство
+TALISMANFOOD | thaumicexploration | Talisman of Nourishment
+CAP_SOJOURNER | thaumicexploration | Sojourner's Wand Caps
+TXTALLOW | thaumicexploration | Магический жир
+BRAINCURE | thaumicexploration | Brain Sanitization
+ENCHBINDING | thaumicexploration | Enchantment: Binding
+ENCHNIGHTVISION | thaumicexploration | Enchantment: Night Vision
+METEORBOOTS | thaumicexploration | Boots of the Meteor
+STABILIZERBELT | thaumicexploration | Thaumostatic Stabilizer
+REPLICATOR | thaumicexploration | Thaumic Replicator
+ROD_AMBER | thaumicexploration | Amber Wand Core
+URN | thaumicexploration | Everfull Urn
+BURN | thaumicexploration | Everburn Urn
+ROD_TRANSMUTATION | thaumicexploration | Transmutative Wand Core
+SOULBRAZIER | thaumicexploration | Soul Brazier
+ROD_TRANSMUTATION_staff | thaumicexploration | Transmutative Staff Core
+TXHOVERHARNESS | thaumicexploration | Таумостатический ранец
+ENCHDISARM | thaumicexploration | Enchantment: Disarming
+TXROD_greatwood | thaumicexploration | Стержень из великого дерева
+TENTACLERING | thaumicexploration | Taintacle Ring
+JARSEAL | thaumicexploration | Seal of Jar Binding
+DISCOUNTRINGS | thaumicexploration | Shard Rings
+ROD_AMBER_staff | thaumicexploration | Amber Staff Core
+TXROD_greatwood_staff | thaumicexploration | Магические посохи
+TRASHJAR | thaumicexploration | Oblivion Jar
+CRUCSOULS | thaumicexploration | Crucible of Souls
+COMETBOOTS | thaumicexploration | Boots of the Comet
+THINKTANK | thaumicexploration | Think Tank
+TXINFUSION | thaumicexploration | Наполнение предметов магией
+FLESHCURE | thaumicexploration | Flesh Purification
+TXBOOTSTRAVELLER | thaumicexploration | Сапоги путешественника
+FLOATCANDLE | thaumicexploration | Floating Candles
+TAINTBASICS | thaumicexploration | Taint
+TXJARVOID | thaumicexploration | Пустотная банка
+TXDISTILESSENTIA | thaumicexploration | Очистка эссенции
+TXCAP_thaumium | thaumicexploration | Таум-наконечники
+alchIncubation | thaumichorizons | Alchemical Incubation
+blastPhial | thaumichorizons | Blast Phials
+nightmareInfusion | thaumichorizons | Nightmare
+runicCreature | thaumichorizons | Runic Hide
+horseInfusion | thaumichorizons | Horse Infusions
+chickenInfusion | thaumichorizons | Chicken Infusions
+focusAnimation | thaumichorizons | Wand Focus: Animation
+focusLiquefaction | thaumichorizons | Wand Focus: Liquefaction
+focusDisintegration | thaumichorizons | Wand Focus: Disintegration
+cloneVillager | thaumichorizons | Reincarnation
+alchemite | thaumichorizons | Alchemite
+transductionAmplifier | thaumichorizons | Transduction Amplifier
+planarTheory | thaumichorizons | Planar Theory
+pigInfusion | thaumichorizons | Pig Infusions
+instilledLoyalty | thaumichorizons | Instilled Loyalty
+fleshLeather | thaumichorizons | Flesh Hardening
+voidGolem | thaumichorizons | Voidling Golems
+eldritchFangs | thaumichorizons | Eldritch Fangs
+lensFire | thaumichorizons | Arcane Lenses
+thaumiumBoat | thaumichorizons | Thaumium Boat
+nightmare | thaumichorizons | Musings on Life and Death
+focusIllumination | thaumichorizons | Wand Focus: Illumination
+silverHeart | thaumichorizons | Silverwood Heart
+soulExtractor | thaumichorizons | Soul Sieve
+vortexStabilizer | thaumichorizons | Vortex Attenuation
+lensCase | thaumichorizons | Lens Case
+synthSkin | thaumichorizons | Synthskin
+lensEarth | thaumichorizons | Evanescent Lens
+mirrorAmulet | thaumichorizons | Mirrored Amulet
+focusContainment | thaumichorizons | Wand Focus: Containment
+essentiaInjection | thaumichorizons | Blood Alchemy
+catInfusion | thaumichorizons | Feline Infusions
+amphibious | thaumichorizons | Amphibious Breath
+selfInfusion | thaumichorizons | Self-Infusion
+dogInfusion | thaumichorizons | Canine Infusions
+planarRift | thaumichorizons | New Horizons
+crystalWand | thaumichorizons | Crystalline Wand
+portability | thaumichorizons | Portability
+lensAir | thaumichorizons | Kirlian Lens
+visDynamo | thaumichorizons | Vis Dynamo
+sheederInfusion | thaumichorizons | Sheeder
+etherealShard | thaumichorizons | Ethereal Shard
+essentiaDynamo | thaumichorizons | Essentia Dynamo
+injector | thaumichorizons | Injector
+lensOrderEntropy | thaumichorizons | Scholar's Lens
+chameleonSkin | thaumichorizons | Chameleon Skin
+nodeMonitor | thaumichorizons | Node Monitor
+lensWater | thaumichorizons | Echo Lens 
+cowInfusion | thaumichorizons | Cow Infusions
+alcheponics | thaumichorizons | Alcheponics
+sheepInfusion | thaumichorizons | Sheep Infusions
+humanInfusion | thaumichorizons | Basic Human Infusions
+morphicFingers | thaumichorizons | Morphic Fingers
+incarnationVat | thaumichorizons | Incarnation
+wispSpawn | thaumichorizons | Wisp Propagation
+soulAssembler | thaumichorizons | Soulforge
+infusionVat | thaumichorizons | Creature Infusion
+greatwoodBoat | thaumichorizons | Greatwood Boat
+golemPowder | thaumichorizons | Animation Powder
+spiderClimb | thaumichorizons | Spider Climb
+shardTrans | thaumichorizons | Shard Transmutation
+warpedTumor | thaumichorizons | Warped Tumor
+recombinator | thaumichorizons | Teleological Recombinator
+soulKnowledge | thaumichorizons | Inspiratron
+healingVat | thaumichorizons | Curative Vat
+cloneSelf | thaumichorizons | Self-Reincarnation
+generalInfusion | thaumichorizons | General Infusions
+meatGrowth | thaumichorizons | Meat Growth
+voidPutty | thaumichorizons | Void Putty
+TWARDEN | twarden | Thaumic Wardens
+ILLUMINATION | twarden | Wand Focus: Illumination
+WARDENARMOR | twarden | The Armor
+LORE2 | twarden | Learning The Ropes
+LORE3 | twarden | Not Making Sense
+LORE4 | twarden | The Journey Begins
+WARDENWEAPON | twarden | The Sword
+EXUBITURA | twarden | Exubitura
+WARDENCRYSTAL | twarden | Wardenic Crystal
+INFUSEDQUARTZ | twarden | Wardenic Quartz
+WASLIEHAMMER | twarden | Wesly's Hammer
+LORE1 | twarden | The Prologue
+ENCH_BACKSTAB | witchinggadgets | Enchantment: Backstabbing
+PRIMORDIALARMOR | witchinggadgets | Primordial Armor
+ENCH_STEALTH | witchinggadgets | Enchantment: Stealth
+ENCH_INVISIBLEGEAR | witchinggadgets | Enchantment: Translucency
+CALCULATOR | witchinggadgets | Arcane Abacus
+PRIMORDIALGEARSET | witchinggadgets | Primal Revelation
+ENDERBAG | witchinggadgets | Enderlinked Bag
+CLOAK_STORAGE | witchinggadgets | Cloak of Voluminous Pockets
+HUNGERBAG | witchinggadgets | Hungry Bag
+ALCHEMICALTRANSMOGRIFY | witchinggadgets | Alchemical Transmogrification
+WGFAKEPUREIRON | witchinggadgets | Очистка металла
+WGFAKEBATHSALTS | witchinggadgets | Очищающая соль
+GEMCUTTING | witchinggadgets | Gem Cutting
+VOIDBAG | witchinggadgets | Voidlinked Bag
+TERRAFORMFOCUS_MUSHROOM | witchinggadgets | Terrestrial Focus: Mushroom Island
+TERRAFORMFOCUS_COLDTAIGA | witchinggadgets | Terrestrial Focus: Cold Taiga
+ETHEREALWALL | witchinggadgets | Ethereal Wall
+ENCH_RIDEPROTECT | witchinggadgets | Enchantment: Throwoff
+TERRAFORMER | witchinggadgets | Thaumic Terraforming
+TERRAFORMFOCUS_TAINT | witchinggadgets | Terrestrial Focus: Tainted Lands
+STONEEXTRUDER | witchinggadgets | Thaumic Stone Extruder
+WGFAKEALCHEMICALMANUFACTURE | witchinggadgets | Алхимическое производство
+PURECINNABAR | witchinggadgets | Cinnabar Purification
+TERRAFORMFOCUS_JUNGLE | witchinggadgets | Terrestrial Focus: Jungle
+PRIMORDIALWEAPONRY | witchinggadgets | Primordial Weaponry
+ROSEVINE | witchinggadgets | Rose Vines
+METALLURGICPERFECTION_TRANSMUTATION | witchinggadgets | Metallurgic Perfection: Transmutation
+AGEINGSTONE | witchinggadgets | Ageing Stone
+ADVANCEDROBES | witchinggadgets | Bewitched Fleece
+WGFAKEJARLABEL | witchinggadgets | Банки и бирки
+WGFAKEELDRITCHMINOR | witchinggadgets | Открытие древности
+CRYSTALCAPSULE | witchinggadgets | Crystal Capsule
+LABELLIB | witchinggadgets | Aspect Library
+EMPOWERPEARL | witchinggadgets | Pearl Revitalization
+MIRRORPUMP | witchinggadgets | Essentia Pump
+WGBAUBLES | witchinggadgets | Witching Wearables
+WGFAKEENCHFABRIC | witchinggadgets | Зачарованная ткань
+SPINNINGWHEEL | witchinggadgets | Spinning
+WGFAKECENTRIFUGE | witchinggadgets | Алхимическая центрифуга
+CLOAK_SPECTRAL | witchinggadgets | Spectral Mantle
+CLOAK_WOLF | witchinggadgets | Cloak of the Wolf
+WGFAKEMIRRORESSENTIA | witchinggadgets | Зеркала для эссенции
+ENCH_UNVEILING | witchinggadgets | Enchantment: Unveiling
+WGFAKEPRIMPEARL | witchinggadgets | Сингулярная жемчужина 
+TERRAFORMFOCUS_DESERT | witchinggadgets | Terrestrial Focus: Desert
+CLOAK | witchinggadgets | Cloak
+LABYRINTHSTRING | witchinggadgets | Guiding Thread
+CLOAKKAMA | witchinggadgets | Kama
+WGPOTIONS | witchinggadgets | Status Effects
+WGFAKETRANSIRON | witchinggadgets | Трансмутация металла
+METALLURGICPERFECTION_CLUSTERS | witchinggadgets | Metallurgic Perfection: Purification
+TERRAFORMFOCUS_HELL | witchinggadgets | Terrestrial Focus: Hell
+INFERNALBLASTFURNACE | witchinggadgets | Infernal Blast Furnace
+SCANCAMERA | witchinggadgets | Thaumic Iconograph
+WGFAKEINFUSIONENCHANTMENT | witchinggadgets | Зачаровывание наполнением
+PRIMORDIALGLOVE | witchinggadgets | Primordial Gauntlet
+WGFAKEARCANESTONE | witchinggadgets | Магический камень
+WGFAKEINFERNALFURNACE | witchinggadgets | Адская печь
+BAGOFTRICKS | witchinggadgets | Bag of Tricks
+SAUNASTOVE | witchinggadgets | Thaumic Sauna Stove
