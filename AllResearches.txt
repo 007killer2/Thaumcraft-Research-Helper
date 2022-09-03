@@ -901,3 +901,38 @@ WGFAKEARCANESTONE | witchinggadgets | Магический камень
 WGFAKEINFERNALFURNACE | witchinggadgets | Адская печь
 BAGOFTRICKS | witchinggadgets | Bag of Tricks
 SAUNASTOVE | witchinggadgets | Thaumic Sauna Stove
+GenericTheory | forgottenrelics | Теория Вечных Артефактов
+SpellbookTheory | forgottenrelics | Книги заклинаний
+MiningCharm | forgottenrelics | Шахтёрский талисман
+AdvancedMiningCharm | forgottenrelics | Ethereal Mining Charm
+SuperpositionRing | forgottenrelics | Кольцо Суперпозиции
+WeatherStone | forgottenrelics | Рунный камень
+DarkSunRing | forgottenrelics | Кольцо Семи Солнц
+AncientAegis | forgottenrelics | Древняя Эгида
+ChaosCore | forgottenrelics | Ядро Хаоса
+TheParadox | forgottenrelics | Парадокс
+ChaosTome | forgottenrelics | Том Первозданного Хаоса
+DimensionalMirror | forgottenrelics | Зеркало Измерений
+XPTome | forgottenrelics | Том Безграничной Мудрости
+OblivionAmulet | forgottenrelics | Амулет Забвения
+NebulousCore | forgottenrelics | Ядро Туманности
+DeificAmulet | forgottenrelics | Божественный амулет
+ShinyStone | forgottenrelics | Блестящий камень
+FateTome | forgottenrelics | Том Разбитых Судеб
+DiscordTome | forgottenrelics | Том Раздора
+TelekinesisTome | forgottenrelics | Том Предначертания
+ObeliskDrainer | forgottenrelics | Пожиратель Пустоты
+SoulTome | forgottenrelics | Эдикт Тысячи Проклятых Душ
+EldritchSpell | forgottenrelics | Древнее заклятие
+CrimsonSpell | forgottenrelics | Багровое заклятие
+NuclearFury | forgottenrelics | Ядерная Ярость
+LunarFlares | forgottenrelics | Том Лунных Огней
+Apotheosis | forgottenrelics | Апофеоз
+FalseJustice | forgottenrelics | Ложное Правосудие
+Thunderpeal | forgottenrelics | Раскат Грома
+Overthrower | forgottenrelics | Эдикт Вечного Изгнания
+TerrorCrown | forgottenrelics | Корона Ужаса
+PechFocus | forgottenrelics | Набалдашник: Гномье проклятие
+DiscordRing | forgottenrelics | Кольцо Раздора
+VoidGrimoire | forgottenrelics | Гримуар Бездны
+OblivionStone | forgottenrelics | Ключ-камень Забвения
