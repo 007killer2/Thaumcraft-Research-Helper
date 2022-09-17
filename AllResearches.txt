@@ -936,3 +936,13 @@ PechFocus | forgottenrelics | Набалдашник: Гномье прокля�
 DiscordRing | forgottenrelics | Кольцо Раздора
 VoidGrimoire | forgottenrelics | Гримуар Бездны
 OblivionStone | forgottenrelics | Ключ-камень Забвения
+CAP_alfheimManasteel | NTC (alfheim) | Наконечники из манастали
+CAP_alfheimTerrasteel | NTC (alfheim) | Наконечники из террастали
+CAP_alfheimElementium | NTC (alfheim) | Наконечники из элементия
+CAP_alfheimElvorium | NTC (alfheim) | Наконечники из эльвория
+CAP_alfheimMauftrium | NTC (alfheim) | Наконечники из мауфтрия
+ROD_alfheimLivingwood | NTC (alfheim) | Стержень из жизнедерева
+ROD_alfheimDreamwood | NTC (alfheim) | Стержень из древесины мечтаний
+ROD_alfheimSpiritual_staff | NTC (alfheim) | Ядро посоха Гайи
+alfheimTransElementium | NTC (alfheim) | Трансмутация элементия
+alfheimPureElementium | NTC (alfheim) | Очистка элементия
