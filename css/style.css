@@ -47,7 +47,6 @@ li {
 }
 
 .researchList {
-  min-width: 500px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
