@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 24px;
+}
+
+body {
+  background-color: #3f3f3f;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+li {
+  list-style: none;
+  padding-left: 0.5rem;
+}
+
+#searchResearch {
+  padding: 8px 16px;
+
+  outline: none;
+  border: 1px solid #7027ca;
+  font-size: 1em;
+}
+
+.researchList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.modContainer {
+  background-color: #5d5d5d;
+  border: 1px solid #7027ca;
+  border-radius: 8px;
+  padding: 0.8rem 0.8rem 0 0.8rem;
+
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+}
+
+.researchItem {
+
+  padding: 1rem;
+
+
+}
