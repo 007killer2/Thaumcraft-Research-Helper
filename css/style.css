@@ -7,6 +7,7 @@
 html {
   font-size: 10px;
   margin: 0 auto;
+  word-break: break-word;
 }
 
 body {
@@ -14,23 +15,23 @@ body {
 }
 
 h1 {
-  font-size: 3.2rem;
+  font-size: 3.0rem;
 }
 
 h2 {
-  font-size: 2.8rem;
+  font-size: 2.6rem;
 }
 
 h3 {
-  font-size: 2.4rem;
+  font-size: 2.2rem;
 }
 
 h4, ul {
-  font-size: 2.0rem;
+  font-size: 1.8rem;
 }
 
 p, span {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
 }
 
 li {
@@ -71,8 +72,26 @@ li {
 
 
 @media screen and (max-width: 375px) {
-  body {
-    font-size: 16px;
+
+
+  h1 {
+    font-size: 2.6rem;
+  }
+
+  h2 {
+    font-size: 2.2rem;
+  }
+
+  h3 {
+    font-size: 1.8rem;
+  }
+
+  h4, ul {
+    font-size: 1.4rem;
+  }
+
+  p, span {
+    font-size: 1.0rem;
   }
 
   .researchList {
