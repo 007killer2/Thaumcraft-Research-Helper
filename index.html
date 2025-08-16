@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
 <!--  <meta name="viewport" content="width=device-width, initial-scale=1">-->
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
   <title>Thaumcraft Research Helper</title>
   <link rel="stylesheet" href="css/style.css">
   <meta name="description" content="">
@@ -24,13 +24,15 @@
 </head>
 
 <body>
-  <div class="sortPanel">
-    <label for="searchResearch">
-      <input id="searchResearch" type="search" placeholder="Search research...">
-    </label>
+  <div>
+    <div class="sortPanel">
+      <label for="searchResearch">
+        <input id="searchResearch" type="search" placeholder="Search research...">
+      </label>
+    </div>
+    <div class="researchList"></div>
   </div>
-  <div class="researchList"></div>
-  <script src="js/app.js" type="module"></script>
-</body>
 
+</body>
+  <script src="js/app.js" type="module"></script>
 </html>

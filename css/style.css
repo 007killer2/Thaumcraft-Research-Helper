@@ -5,16 +5,32 @@
 }
 
 html {
-  font-size: 24px;
+  font-size: 10px;
+  margin: 0 auto;
 }
 
 body {
   background-color: #3f3f3f;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  gap: 1rem;
+}
+
+h1 {
+  font-size: 3.2rem;
+}
+
+h2 {
+  font-size: 2.8rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+h4, ul {
+  font-size: 2.0rem;
+}
+
+p, span {
+  font-size: 1.6rem;
 }
 
 li {
@@ -31,10 +47,12 @@ li {
 }
 
 .researchList {
+  min-width: 500px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 1rem;
+  align-items: center;
+  gap: 16px;
 }
 
 .modContainer {
@@ -49,8 +67,25 @@ li {
 }
 
 .researchItem {
-
   padding: 1rem;
+}
 
+
+@media screen and (max-width: 375px) {
+  body {
+    font-size: 16px;
+  }
+
+  .researchList {
+    width: 100vw;
+  }
+
+  .modContainer {
+    width: 100%;
+  }
+
+  .researchItem {
+    width: 100%;
+  }
 
 }
