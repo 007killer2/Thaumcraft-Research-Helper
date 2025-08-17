@@ -5,7 +5,7 @@
   <meta charset="utf-8">
 <!--  <meta name="viewport" content="width=device-width, initial-scale=1">-->
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <title>Thaumcraft Research Helper</title>
+  <title>Thaumcraft Research Key Viewer</title>
   <link rel="stylesheet" href="css/style.css">
   <meta name="description" content="">
 
@@ -24,13 +24,39 @@
 </head>
 
 <body>
-  <div>
-    <div class="sortPanel">
-      <label for="searchResearch">
-        <input id="searchResearch" type="search" placeholder="Search research...">
-      </label>
+  <div class="header">
+    <h1>Thaumcraft Research Key Viewer</h1>
+    <p>Search for Thaumcraft research keys for modpack development</p>
+
+    <div class="theme-switcher">
+      <span class="theme-icon">☀️</span>
+      <button class="theme-toggle" id="themeToggle">
+       <div class="theme-toggle-slider">
+         <span class="theme-icon">🌙</span>
+       </div>
+      </button>
+      <span class="theme-icon">🌙</span>
     </div>
-    <div class="researchList"></div>
+  </div>
+  <div>
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search by key, name, mod, category, or parents...">
+    </div>
+    <div id="researchList" class="research-grid">
+      <div class="loading">Loading research data...</div>
+    </div>
+
+    <div id="loadMoreTrigger" class="load-more-trigger"></div>
+    <div id="loadingIndicator" class="loading-indicator" style="display: none;">
+      <div class="spinner"></div>
+      <span>Loading more research...</span>
+    </div>
+
+    <div class="footer">
+      <p>Created for Thaumcraft modpack developers</p>
+    </div>
+
+    <div class="copy-notification" id="copyNotification">Copied to clipboard!</div>
   </div>
 
 </body>
