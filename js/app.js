@@ -116,7 +116,7 @@ function getCategoryColor(category) {
 }
 
 // Show copy notification
-function showCopyNotification(message = 'Copied to clipboard!!!') {
+function showCopyNotification(message = 'Copied to clipboard!') {
     copyNotification.textContent = message;
     console.log(copyNotification.textContent);
     copyNotification.classList.add('show');
