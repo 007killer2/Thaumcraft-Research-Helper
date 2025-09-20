@@ -9,6 +9,7 @@
 - Electro-Magic-Tools
 - Tainted Magic
 - Gadomancy
+- Technomancy
 - Automagy
 - Forgotten Relics
 - Railcraft
